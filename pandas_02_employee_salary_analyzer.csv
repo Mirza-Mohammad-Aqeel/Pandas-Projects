@@ -1,0 +1,801 @@
+Employee_ID,Department,Age,Experience_Years,Salary,Performance
+20001,Marketing,37,18,104536.0,Good
+20002,engineering,47,4,70940.0,Excellent
+20003,engineering,37,31,45223.0,Good
+20004,Sales ,35,10,25000.0,
+20005,Sales,34,9,95775.0,Excellent
+20006,HR,29,33,134422.0,Average
+20007,Finance,59,27,25000.0,Good
+20008,Sales,47,30,148528.0,Poor
+20009,Engineering,27,23,80535.0,
+20010,Sales,55,32,104809.0,Average
+20011,Sales ,27,4,129039.0,Good
+20012,engineering,44,21,77528.0,Good
+20013,Marketing,27,10,126790.0,Average
+20014,engineering,35,14,54000.0,Good
+20015,engineering,47,8,70339.0,Poor
+20016,Sales ,60,7,160377.0,Good
+20017,Marketing,60,15,91907.0,Good
+20018,Marketing,56,33,32739.0,Average
+20019,Sales,30,22,110349.0,Good
+20020,Sales ,24,12,127409.0,Excellent
+20021,HR,57,15,40766.0,Average
+20022,HR,57,19,25000.0,Good
+20023,engineering,32,8,54542.0,Excellent
+20024,Finance,21,18,25000.0,Good
+20025,HR,46,25,140593.0,Poor
+20026,Marketing,24,8,62182.0,Excellent
+20027,Sales,22,21,91707.0,Poor
+20028,Engineering,58,25,49925.0,Good
+20029,Engineering,40,18,115991.0,Good
+20030,Sales ,25,10,102210.0,Good
+20031,HR,47,19,101794.0,Average
+20032,HR,35,28,130672.0,Average
+20033,engineering,42,7,65075.0,Good
+20034,HR,56,20,46843.0,Average
+20035,Finance,30,24,93225.0,Good
+20036,Engineering,46,11,27783.0,Good
+20037,Sales,54,13,148576.0,Good
+20038,Marketing,37,31,80103.0,Average
+20039,HR,59,13,97081.0,Average
+20040,Sales,38,21,,Excellent
+20041,Marketing,39,5,73166.0,Good
+20042,Marketing,56,33,113513.0,Poor
+20043,Marketing,46,21,53957.0,Average
+20044,Marketing,55,27,99563.0,Average
+20045,engineering,52,21,134914.0,
+20046,Engineering,49,12,126932.0,Average
+20047,Marketing,30,12,113110.0,Poor
+20048,HR,36,25,126121.0,Good
+20049,Finance,55,30,101597.0,Average
+20050,Marketing,45,4,139472.0,Average
+20051,Marketing,32,30,148483.0,
+20052,Marketing,34,29,50693.0,Good
+20053,Finance,52,3,151917.0,Poor
+20054,Engineering,28,3,54205.0,Good
+20055,Finance,25,25,64897.0,Average
+20056,Sales,51,30,58764.0,Average
+20057,Engineering,32,14,108927.0,Good
+20058,engineering,51,23,163365.0,Good
+20059,Sales,42,35,109283.0,Good
+20060,HR,60,11,90408.0,Excellent
+20061,Engineering,41,8,41200.0,Average
+20062,engineering,55,35,93547.0,Excellent
+20063,Sales ,55,10,88042.0,Good
+20064,Finance,29,17,85390.0,Average
+20065,Sales ,60,15,56157.0,Good
+20066,HR,50,18,44612.0,Poor
+20067,Sales,25,9,116779.0,Good
+20068,Sales,21,24,,Good
+20069,Sales,31,24,60546.0,Average
+20070,Sales,21,7,33991.0,Excellent
+20071,Marketing,35,17,118410.0,Average
+20072,Sales,60,2,69953.0,Good
+20073,Finance,40,7,90336.0,Poor
+20074,Sales,21,35,128324.0,Average
+20075,Finance,40,18,49110.0,Average
+20076,Marketing,29,22,93134.0,Excellent
+20077,engineering,55,31,145674.0,Average
+20078,Finance,24,25,81148.0,Excellent
+20079,Marketing,51,28,30911.0,Average
+20080,HR,38,25,91037.0,Good
+20081,Marketing,21,17,64415.0,Average
+20082,Finance,47,22,108328.0,Average
+20083,engineering,39,10,100162.0,Excellent
+20084,HR,51,32,25000.0,Good
+20085,Finance,45,6,142869.0,Good
+20086,HR,52,31,69557.0,Good
+20087,Marketing,39,31,98194.0,Good
+20088,Marketing,21,5,156969.0,Good
+20089,Marketing,26,25,52881.0,Excellent
+20090,engineering,39,35,64544.0,Good
+20091,Engineering,36,20,83109.0,Good
+20092,Marketing,52,12,91889.0,Good
+20093,engineering,37,31,,Good
+20094,Engineering,55,18,121444.0,Good
+20095,engineering,28,4,35252.0,Good
+20096,Finance,36,8,183307.0,Good
+20097,Marketing,51,24,89731.0,Good
+20098,HR,25,16,44204.0,Excellent
+20099,Finance,33,7,39614.0,Excellent
+20100,Marketing,51,28,61545.0,Good
+20101,Marketing,44,4,59747.0,Good
+20102,Finance,52,7,76659.0,Good
+20103,Sales ,41,16,126780.0,Average
+20104,Marketing,55,1,63922.0,Good
+20105,Sales ,56,13,,Average
+20106,Finance,59,32,91300.0,Poor
+20107,Finance,25,33,91989.0,Excellent
+20108,Marketing,44,31,75530.0,Excellent
+20109,Sales ,25,11,138343.0,Good
+20110,Marketing,30,2,151482.0,Average
+20111,Marketing,33,29,75348.0,Good
+20112,Sales ,46,13,57233.0,Good
+20113,Finance,38,26,144753.0,Good
+20114,Marketing,55,4,140674.0,
+20115,Sales ,32,24,93272.0,Average
+20116,Marketing,45,21,,Average
+20117,Marketing,51,33,76633.0,Average
+20118,Finance,60,3,39898.0,Average
+20119,HR,30,14,99269.0,Average
+20120,engineering,50,35,96155.0,Poor
+20121,Marketing,24,14,35726.0,Average
+20122,Finance,42,23,129805.0,Average
+20123,Sales ,37,5,68418.0,Average
+20124,Finance,59,26,145261.0,Good
+20125,Marketing,51,9,,Average
+20126,HR,58,20,103569.0,Excellent
+20127,HR,55,31,93776.0,Average
+20128,HR,37,23,71110.0,Average
+20129,Marketing,50,17,80872.0,Poor
+20130,Finance,22,6,82439.0,Good
+20131,Sales,43,12,128332.0,Average
+20132,Engineering,22,30,73444.0,Good
+20133,Finance,49,7,141205.0,Average
+20134,Sales ,59,23,141950.0,
+20135,HR,48,17,68852.0,Average
+20136,Finance,54,11,132626.0,Average
+20137,Sales ,30,25,131099.0,Excellent
+20138,Finance,60,13,99274.0,Average
+20139,Marketing,43,10,124220.0,Average
+20140,engineering,47,19,117024.0,Good
+20141,engineering,51,27,,Average
+20142,Sales ,46,31,108556.0,Poor
+20143,engineering,33,22,94535.0,Average
+20144,Engineering,45,23,72892.0,Poor
+20145,HR,47,28,65593.0,Excellent
+20146,Sales,55,9,159349.0,Good
+20147,Finance,40,9,78372.0,Good
+20148,Sales,41,17,142828.0,Average
+20149,Finance,41,22,73492.0,Good
+20150,Marketing,25,23,,Good
+20151,Engineering,24,5,72191.0,Poor
+20152,Engineering,21,28,132874.0,Excellent
+20153,Finance,47,13,99146.0,Good
+20154,Engineering,37,31,81346.0,Good
+20155,Sales ,55,26,54601.0,Average
+20156,Sales ,49,35,116694.0,Average
+20157,engineering,26,22,46844.0,Good
+20158,Sales,25,18,102813.0,Good
+20159,Sales ,35,6,129674.0,Average
+20160,engineering,57,14,58242.0,Poor
+20161,HR,22,30,129652.0,Good
+20162,Engineering,28,13,52152.0,Average
+20163,Finance,22,1,90705.0,Average
+20164,Sales ,37,8,128429.0,Good
+20165,Engineering,60,21,97789.0,Average
+20166,Engineering,48,22,87448.0,Poor
+20167,HR,40,35,131719.0,Poor
+20168,Finance,26,33,105471.0,Excellent
+20169,HR,35,19,141923.0,Average
+20170,HR,41,19,130398.0,Good
+20171,Marketing,31,28,139318.0,
+20172,Engineering,49,1,124335.0,Good
+20173,Engineering,60,21,90316.0,Good
+20174,Engineering,29,17,103395.0,Good
+20175,engineering,31,28,102855.0,Average
+20176,Sales ,26,28,146809.0,Good
+20177,HR,50,23,79524.0,Excellent
+20178,Engineering,39,23,64306.0,Good
+20179,HR,32,24,132163.0,Average
+20180,Marketing,29,20,138938.0,Average
+20181,Sales,23,8,115232.0,Excellent
+20182,HR,40,10,91561.0,Average
+20183,Finance,48,26,103004.0,Good
+20184,Marketing,30,22,77021.0,Average
+20185,HR,21,8,75212.0,Good
+20186,HR,39,31,113871.0,Good
+20187,HR,48,35,90891.0,Good
+20188,engineering,34,22,158301.0,Average
+20189,Finance,31,8,126907.0,Good
+20190,Engineering,27,33,51343.0,Average
+20191,Engineering,50,8,159478.0,Average
+20192,HR,55,15,111058.0,Good
+20193,Marketing,51,30,125477.0,Good
+20194,Engineering,41,18,115182.0,Good
+20195,Engineering,49,8,88967.0,Average
+20196,engineering,36,2,180376.0,Good
+20197,HR,21,12,103344.0,Excellent
+20198,Sales,35,24,130917.0,Poor
+20199,Sales,49,25,104823.0,Good
+20200,engineering,46,8,61063.0,Good
+20201,Finance,60,5,54169.0,Excellent
+20202,engineering,60,25,170366.0,Good
+20203,Marketing,30,5,104385.0,Good
+20204,Finance,21,2,90608.0,Average
+20205,Sales ,31,17,134682.0,Average
+20206,Marketing,56,20,75172.0,Excellent
+20207,HR,53,8,113553.0,Excellent
+20208,Sales,24,7,106471.0,Good
+20209,engineering,27,8,44644.0,Good
+20210,Engineering,43,12,77812.0,Good
+20211,Sales,47,0,131076.0,Poor
+20212,engineering,60,0,44463.0,Excellent
+20213,Engineering,51,13,111834.0,Good
+20214,Marketing,29,0,64331.0,Good
+20215,HR,22,11,90846.0,Average
+20216,HR,46,20,103615.0,Average
+20217,Finance,43,1,111413.0,Average
+20218,engineering,57,22,144625.0,Good
+20219,HR,44,22,73152.0,Good
+20220,Marketing,41,20,47464.0,Average
+20221,Marketing,33,22,128273.0,Good
+20222,Sales,24,29,63591.0,
+20223,engineering,56,2,49971.0,Average
+20224,Marketing,54,6,141977.0,Good
+20225,Marketing,27,11,100625.0,Good
+20226,Marketing,49,24,95169.0,Average
+20227,Marketing,35,31,102751.0,Good
+20228,engineering,38,33,161405.0,Good
+20229,Sales ,54,20,38600.0,Average
+20230,Sales,54,14,88164.0,Average
+20231,Finance,28,14,87096.0,Excellent
+20232,Marketing,33,2,126074.0,Average
+20233,Finance,53,16,142504.0,Good
+20234,Finance,57,18,113528.0,Good
+20235,Marketing,24,7,57819.0,Good
+20236,Marketing,54,27,138767.0,Good
+20237,engineering,40,29,95364.0,Good
+20238,engineering,44,10,162653.0,Good
+20239,Marketing,24,32,149764.0,Good
+20240,Sales,48,3,42801.0,Average
+20241,engineering,48,32,92986.0,Average
+20242,Sales ,47,27,108365.0,Average
+20243,Sales,52,8,119553.0,Average
+20244,Marketing,58,23,64491.0,Average
+20245,engineering,54,11,92465.0,Average
+20246,Marketing,50,28,104328.0,Poor
+20247,HR,60,5,89996.0,Average
+20248,HR,47,8,93628.0,Good
+20249,Marketing,47,11,36467.0,Good
+20250,Marketing,42,7,131247.0,Good
+20251,Sales ,51,11,98249.0,Good
+20252,engineering,23,21,82185.0,Excellent
+20253,Engineering,41,22,115879.0,Good
+20254,Marketing,38,19,26393.0,Average
+20255,Sales,57,6,43860.0,
+20256,Sales,23,7,128086.0,Poor
+20257,Engineering,46,33,50172.0,Good
+20258,Marketing,28,9,70174.0,Good
+20259,HR,56,3,143874.0,Average
+20260,Sales,55,16,122162.0,Good
+20261,Engineering,30,0,25000.0,Average
+20262,HR,55,12,118890.0,Poor
+20263,engineering,40,30,119882.0,Poor
+20264,Marketing,59,9,,Average
+20265,Finance,50,25,59678.0,Average
+20266,Finance,22,17,111589.0,Good
+20267,Sales ,29,12,112253.0,Good
+20268,Marketing,37,23,160304.0,Good
+20269,Marketing,29,21,40965.0,Good
+20270,Marketing,26,11,73554.0,Poor
+20271,Finance,60,8,39466.0,Average
+20272,Marketing,55,33,124099.0,Good
+20273,Engineering,38,6,114990.0,Excellent
+20274,Engineering,29,34,103169.0,Good
+20275,Marketing,28,16,108869.0,Average
+20276,engineering,57,35,,Good
+20277,Sales,34,12,90496.0,Excellent
+20278,Marketing,21,20,71422.0,Average
+20279,Engineering,36,22,101522.0,Average
+20280,engineering,39,12,104253.0,Poor
+20281,Sales,45,7,85843.0,Good
+20282,Engineering,34,18,121206.0,Excellent
+20283,Sales ,57,23,82973.0,Good
+20284,Sales ,46,9,51409.0,Average
+20285,Engineering,60,27,101290.0,Good
+20286,Engineering,35,22,47778.0,Good
+20287,Finance,47,5,71880.0,Good
+20288,Engineering,35,33,93221.0,Good
+20289,engineering,48,1,85177.0,Average
+20290,Marketing,50,23,116780.0,Average
+20291,Sales ,33,15,73615.0,Good
+20292,Sales,58,23,177174.0,Good
+20293,Sales,55,27,70365.0,
+20294,engineering,56,24,64676.0,Good
+20295,Engineering,29,23,56942.0,Average
+20296,Finance,49,30,87839.0,Average
+20297,HR,25,25,77106.0,Good
+20298,engineering,25,29,81856.0,Average
+20299,Sales,59,14,79893.0,Good
+20300,Sales ,27,7,92628.0,Average
+20301,engineering,55,8,148818.0,Average
+20302,Sales,38,22,155207.0,Good
+20303,Marketing,33,19,97396.0,Poor
+20304,Engineering,23,2,122562.0,Good
+20305,HR,48,7,145600.0,Good
+20306,Marketing,49,34,131547.0,Good
+20307,Engineering,39,26,86911.0,Good
+20308,Finance,53,27,77761.0,Good
+20309,Finance,33,7,51159.0,Good
+20310,Engineering,43,2,51388.0,Average
+20311,Sales,32,10,75327.0,Average
+20312,Engineering,44,30,114397.0,Good
+20313,engineering,26,18,86906.0,Good
+20314,Marketing,40,28,116834.0,Good
+20315,Engineering,42,17,146640.0,Good
+20316,Sales,43,17,33467.0,Good
+20317,Marketing,38,21,119443.0,Average
+20318,Marketing,46,34,107761.0,Good
+20319,engineering,41,15,71092.0,Average
+20320,HR,32,21,169443.0,Average
+20321,Sales,29,33,122735.0,Good
+20322,Marketing,46,13,61186.0,Good
+20323,Engineering,58,30,72546.0,Average
+20324,engineering,51,19,87600.0,Excellent
+20325,Marketing,46,31,29363.0,Good
+20326,HR,57,16,59979.0,Good
+20327,Sales,56,22,111446.0,Excellent
+20328,Sales ,41,11,67751.0,Average
+20329,Sales,25,22,77022.0,Good
+20330,Finance,46,11,124083.0,Average
+20331,Sales ,45,21,58692.0,Average
+20332,engineering,32,28,86142.0,Average
+20333,Finance,54,15,141151.0,Average
+20334,Marketing,55,15,102891.0,Good
+20335,Sales,34,11,155026.0,Average
+20336,Marketing,40,26,73043.0,Good
+20337,Finance,28,21,116345.0,Average
+20338,HR,28,18,50399.0,Average
+20339,Marketing,31,0,67631.0,Excellent
+20340,engineering,35,3,73937.0,Good
+20341,Marketing,31,0,148460.0,Excellent
+20342,engineering,27,30,44758.0,Good
+20343,Engineering,38,30,78071.0,Poor
+20344,HR,45,2,84411.0,Good
+20345,engineering,34,1,90797.0,Good
+20346,HR,42,28,102005.0,Poor
+20347,Sales ,31,18,98035.0,Excellent
+20348,engineering,49,11,90826.0,Good
+20349,Engineering,46,22,177358.0,Good
+20350,Finance,59,8,91830.0,Good
+20351,Sales,23,7,125254.0,Good
+20352,HR,55,13,137002.0,Average
+20353,HR,34,32,110419.0,
+20354,Sales ,23,27,90118.0,Average
+20355,Sales ,48,6,51766.0,Average
+20356,HR,27,20,136698.0,Poor
+20357,Finance,28,31,108108.0,Good
+20358,engineering,60,34,128344.0,
+20359,engineering,29,27,58687.0,Excellent
+20360,engineering,42,4,62619.0,Good
+20361,Sales ,29,8,152519.0,
+20362,Marketing,25,7,76666.0,Good
+20363,Sales ,21,5,50126.0,Average
+20364,Sales,21,6,74943.0,Good
+20365,HR,39,11,28868.0,Poor
+20366,HR,38,19,77136.0,Average
+20367,Finance,22,14,119835.0,Average
+20368,Finance,34,15,104983.0,Average
+20369,engineering,31,8,84758.0,Excellent
+20370,HR,43,5,61444.0,
+20371,Marketing,60,35,135580.0,Average
+20372,HR,48,21,70163.0,Good
+20373,Sales ,57,8,59243.0,Average
+20374,Marketing,28,29,59223.0,Average
+20375,Engineering,29,29,101261.0,Average
+20376,Marketing,51,34,82841.0,Average
+20377,Sales,33,5,41168.0,Average
+20378,Finance,54,23,55241.0,Average
+20379,Sales ,39,35,46350.0,Average
+20380,Marketing,29,29,158160.0,Average
+20381,Marketing,54,8,108618.0,Excellent
+20382,Marketing,43,32,34225.0,Average
+20383,Sales,53,15,78211.0,Average
+20384,Sales,39,17,123025.0,Good
+20385,Sales,26,20,93491.0,Average
+20386,HR,48,27,147780.0,Good
+20387,Finance,25,4,42113.0,Poor
+20388,Engineering,47,19,26621.0,Good
+20389,Sales ,37,29,56694.0,Good
+20390,engineering,52,19,90905.0,Good
+20391,Engineering,55,9,117902.0,Good
+20392,Sales ,37,2,114326.0,Good
+20393,Engineering,56,19,53056.0,Average
+20394,Finance,25,25,125982.0,Average
+20395,HR,25,19,114218.0,Good
+20396,Finance,60,35,65496.0,Poor
+20397,Marketing,43,21,131929.0,Average
+20398,Marketing,39,18,69717.0,Good
+20399,Marketing,27,1,32403.0,Average
+20400,Finance,32,20,47221.0,Poor
+20401,Marketing,48,6,135665.0,Good
+20402,engineering,53,26,96680.0,Average
+20403,Marketing,57,5,75386.0,Good
+20404,HR,37,32,132178.0,Excellent
+20405,Marketing,39,10,97842.0,Excellent
+20406,Finance,27,15,72328.0,Average
+20407,Sales ,24,5,50827.0,Average
+20408,Marketing,38,7,180065.0,Good
+20409,engineering,44,33,163358.0,Good
+20410,engineering,25,10,83772.0,Good
+20411,Finance,37,18,110575.0,Average
+20412,Marketing,46,35,110908.0,Poor
+20413,HR,53,22,110435.0,Average
+20414,HR,58,1,63156.0,Average
+20415,Sales ,34,12,160090.0,Average
+20416,Finance,36,13,61609.0,Excellent
+20417,Sales ,55,9,76887.0,Poor
+20418,Engineering,48,8,86455.0,Good
+20419,Sales ,31,18,143933.0,Excellent
+20420,Finance,48,13,106387.0,Average
+20421,Marketing,27,10,111574.0,Good
+20422,HR,38,14,115321.0,Good
+20423,HR,33,12,172246.0,Average
+20424,Sales,60,8,180807.0,Good
+20425,Sales ,22,16,151054.0,Good
+20426,engineering,55,33,122668.0,Good
+20427,Sales ,32,18,136082.0,Good
+20428,Engineering,22,21,120664.0,
+20429,Sales,47,35,83140.0,Average
+20430,Marketing,48,22,33668.0,Good
+20431,Engineering,26,8,126762.0,Good
+20432,Finance,22,14,80027.0,Good
+20433,HR,25,17,144562.0,Good
+20434,Marketing,37,17,136815.0,Good
+20435,Sales ,26,5,83351.0,Excellent
+20436,Marketing,49,3,136682.0,Average
+20437,Marketing,24,12,93246.0,Good
+20438,Finance,52,32,89013.0,Average
+20439,engineering,55,25,153794.0,Good
+20440,Marketing,49,30,123959.0,Good
+20441,Engineering,58,6,50776.0,Good
+20442,Marketing,58,14,164976.0,Average
+20443,Marketing,22,20,104475.0,Good
+20444,Sales,34,15,144827.0,Average
+20445,Finance,51,15,128038.0,Average
+20446,Sales ,34,12,89013.0,Average
+20447,Sales,50,1,52564.0,Excellent
+20448,Engineering,51,30,82843.0,Average
+20449,Marketing,60,33,111842.0,
+20450,Marketing,34,2,150096.0,Average
+20451,Sales,34,14,48627.0,Good
+20452,Marketing,21,18,34134.0,Good
+20453,Marketing,32,28,119684.0,Good
+20454,Marketing,32,35,93566.0,Good
+20455,Sales,39,14,152824.0,Good
+20456,Finance,37,26,59077.0,Excellent
+20457,Marketing,55,33,88301.0,Good
+20458,Marketing,51,29,,Poor
+20459,Finance,50,10,115112.0,Average
+20460,Sales,21,29,123108.0,Good
+20461,Engineering,39,14,64199.0,Good
+20462,Marketing,50,0,74004.0,Good
+20463,Engineering,30,27,166417.0,Good
+20464,Sales,37,30,72659.0,Average
+20465,Engineering,50,12,157891.0,Good
+20466,Sales ,52,16,146312.0,Good
+20467,Finance,55,13,57417.0,Good
+20468,Finance,38,4,36300.0,Good
+20469,Sales ,36,35,114609.0,Excellent
+20470,HR,36,0,46825.0,Good
+20471,HR,47,20,101630.0,Excellent
+20472,Sales,37,0,60452.0,Average
+20473,HR,37,24,117584.0,Good
+20474,Sales,27,32,67541.0,Good
+20475,Finance,40,23,106205.0,Good
+20476,Marketing,30,21,165615.0,Average
+20477,Finance,41,29,111378.0,Good
+20478,Marketing,56,35,104466.0,Average
+20479,engineering,52,31,106070.0,Excellent
+20480,Sales ,40,8,148151.0,Average
+20481,HR,60,20,70068.0,Average
+20482,Marketing,60,29,78008.0,Good
+20483,engineering,38,10,129130.0,Average
+20484,Sales,51,24,125416.0,Average
+20485,Marketing,34,0,147927.0,Good
+20486,Marketing,56,31,42643.0,Good
+20487,Marketing,35,22,46772.0,Average
+20488,engineering,31,26,130119.0,Good
+20489,Engineering,26,29,115242.0,Good
+20490,Sales,54,7,25000.0,Good
+20491,Sales,32,16,74632.0,Average
+20492,HR,53,30,170527.0,Average
+20493,Finance,24,5,100074.0,Excellent
+20494,Sales,41,29,152849.0,Good
+20495,Marketing,38,10,54605.0,Poor
+20496,Sales ,38,20,89884.0,Good
+20497,Marketing,27,18,86844.0,Average
+20498,Engineering,23,24,25000.0,Good
+20499,engineering,34,30,77530.0,Good
+20500,Engineering,39,12,111215.0,Excellent
+20501,Finance,52,6,97050.0,Excellent
+20502,Marketing,39,15,62527.0,Average
+20503,Sales ,30,22,139090.0,Good
+20504,Sales,31,27,39495.0,Average
+20505,Marketing,45,27,109954.0,Good
+20506,Sales ,38,12,125496.0,Good
+20507,Sales ,57,33,114332.0,Poor
+20508,Marketing,38,2,100218.0,Poor
+20509,Engineering,43,4,98232.0,Poor
+20510,HR,23,0,120773.0,Average
+20511,Finance,28,33,54826.0,Average
+20512,HR,55,6,73795.0,Excellent
+20513,Marketing,34,21,97581.0,Good
+20514,Sales ,37,29,78755.0,Good
+20515,Sales ,44,27,93988.0,Good
+20516,Engineering,23,34,104820.0,Good
+20517,Sales ,41,1,49133.0,Average
+20518,Sales ,34,14,104895.0,Excellent
+20519,HR,26,18,86904.0,Good
+20520,Finance,37,25,95019.0,Good
+20521,Sales ,38,22,139633.0,Excellent
+20522,Marketing,28,20,153037.0,Good
+20523,Finance,42,11,149820.0,Good
+20524,Engineering,50,3,56396.0,Excellent
+20525,Finance,31,15,134742.0,Good
+20526,engineering,59,9,85152.0,Good
+20527,Engineering,45,19,112037.0,Poor
+20528,Sales ,51,28,85281.0,Poor
+20529,Sales,23,19,78717.0,Good
+20530,Marketing,51,20,136149.0,Poor
+20531,Finance,34,1,99858.0,
+20532,Marketing,49,23,155912.0,Poor
+20533,Engineering,53,15,136506.0,Good
+20534,Engineering,31,4,97451.0,Average
+20535,engineering,31,7,122509.0,Excellent
+20536,HR,23,28,92029.0,Average
+20537,Sales ,45,33,91593.0,Poor
+20538,Sales,51,18,112854.0,Poor
+20539,Marketing,37,35,88876.0,Good
+20540,Marketing,27,6,149892.0,
+20541,Engineering,33,10,129668.0,
+20542,engineering,37,33,126794.0,Average
+20543,Marketing,57,6,133434.0,Good
+20544,Marketing,25,23,89617.0,Average
+20545,Engineering,34,7,118665.0,Good
+20546,Marketing,46,11,71248.0,Good
+20547,HR,30,17,72614.0,Average
+20548,Engineering,56,12,97789.0,Good
+20549,Sales ,57,31,100587.0,Excellent
+20550,engineering,36,35,164179.0,Poor
+20551,Engineering,50,18,108313.0,Average
+20552,Marketing,51,18,63870.0,Average
+20553,Engineering,48,1,112603.0,Average
+20554,Marketing,28,8,84169.0,Average
+20555,Engineering,22,1,141658.0,Good
+20556,Sales ,34,30,81371.0,Average
+20557,Finance,26,8,109360.0,Good
+20558,Finance,32,12,172120.0,Excellent
+20559,Sales ,46,30,98477.0,Excellent
+20560,Marketing,44,25,97353.0,Good
+20561,Sales,29,22,68988.0,Average
+20562,Engineering,21,1,25754.0,Average
+20563,Engineering,30,20,106485.0,Average
+20564,engineering,39,20,163603.0,Excellent
+20565,Finance,52,11,111779.0,Excellent
+20566,Engineering,35,26,90866.0,Average
+20567,Sales,32,33,41091.0,Average
+20568,Finance,43,9,,Good
+20569,engineering,23,11,154231.0,Average
+20570,Marketing,30,11,147253.0,
+20571,Marketing,22,30,86501.0,Average
+20572,Marketing,42,2,97155.0,Average
+20573,Sales ,38,32,106109.0,Average
+20574,HR,44,27,25000.0,Average
+20575,Marketing,45,17,72891.0,Average
+20576,engineering,36,21,129766.0,Excellent
+20577,Finance,55,32,77349.0,Average
+20578,HR,57,27,51155.0,Good
+20579,Sales ,25,9,118358.0,Average
+20580,Finance,57,1,85674.0,Average
+20581,Sales,28,23,158155.0,Poor
+20582,Marketing,30,5,81504.0,Average
+20583,Engineering,42,3,51241.0,Poor
+20584,engineering,22,35,90851.0,Average
+20585,engineering,35,17,150302.0,Good
+20586,Finance,28,23,133738.0,Good
+20587,Engineering,40,7,121224.0,Excellent
+20588,HR,53,3,139515.0,Average
+20589,Marketing,57,2,42212.0,Good
+20590,Sales,29,12,101718.0,Good
+20591,engineering,42,0,86653.0,Average
+20592,Sales ,39,15,,Average
+20593,Marketing,37,11,37664.0,Good
+20594,Finance,46,18,115582.0,Good
+20595,Marketing,60,21,164173.0,Good
+20596,engineering,37,11,70263.0,Average
+20597,HR,23,16,70450.0,
+20598,engineering,57,2,99047.0,Average
+20599,engineering,58,10,102141.0,Excellent
+20600,engineering,33,35,109403.0,Good
+20601,Sales,41,35,86429.0,Good
+20602,Sales ,55,17,79422.0,Good
+20603,Finance,41,33,153283.0,Average
+20604,Marketing,40,18,103882.0,Good
+20605,engineering,57,4,125503.0,Good
+20606,Marketing,54,31,,Good
+20607,Marketing,41,14,134873.0,Average
+20608,Marketing,27,22,123633.0,Average
+20609,engineering,38,23,29762.0,Average
+20610,Finance,48,11,35481.0,Good
+20611,Engineering,31,26,126252.0,Good
+20612,HR,42,18,98663.0,Good
+20613,HR,47,13,79986.0,Good
+20614,Sales ,24,10,64844.0,Good
+20615,Finance,43,26,75608.0,Average
+20616,HR,50,8,163673.0,Good
+20617,Sales,29,4,134297.0,Average
+20618,engineering,42,31,91294.0,Average
+20619,HR,49,11,50739.0,Poor
+20620,Engineering,22,23,83612.0,Average
+20621,Marketing,46,25,64792.0,Average
+20622,Marketing,31,30,43143.0,Good
+20623,Engineering,36,22,154902.0,Poor
+20624,HR,46,25,160195.0,Average
+20625,Finance,21,30,65777.0,Poor
+20626,Engineering,21,33,100693.0,Good
+20627,Sales,38,1,52746.0,Good
+20628,Marketing,58,26,85885.0,Average
+20629,Finance,21,6,99232.0,Average
+20630,Sales,52,32,81736.0,Excellent
+20631,Sales,23,1,123610.0,Good
+20632,HR,40,8,96691.0,Good
+20633,engineering,38,6,,Good
+20634,engineering,39,21,104533.0,Good
+20635,Sales,24,0,58022.0,Excellent
+20636,engineering,51,0,64987.0,Average
+20637,Marketing,32,18,150193.0,Good
+20638,Sales,51,34,106713.0,Average
+20639,Engineering,47,19,134602.0,Good
+20640,Marketing,43,16,142571.0,Average
+20641,Finance,33,23,82588.0,Poor
+20642,Sales ,47,19,65714.0,Excellent
+20643,Marketing,60,13,60990.0,Excellent
+20644,Marketing,57,21,27826.0,Average
+20645,Sales,57,0,25000.0,
+20646,Sales,29,8,42680.0,Average
+20647,HR,44,24,99993.0,Good
+20648,Engineering,36,12,90843.0,Excellent
+20649,Sales ,59,1,75648.0,Average
+20650,Finance,59,4,39083.0,Good
+20651,Marketing,55,31,108896.0,Good
+20652,Finance,27,11,136245.0,Average
+20653,Marketing,33,0,166779.0,Average
+20654,Finance,49,26,56007.0,Average
+20655,Sales,50,19,58035.0,Good
+20656,Sales ,35,16,114249.0,Average
+20657,engineering,26,32,97120.0,Average
+20658,Sales,26,11,66057.0,Good
+20659,Finance,48,20,106908.0,Average
+20660,Finance,39,26,94196.0,Average
+20661,Sales,40,21,31039.0,Good
+20662,Engineering,53,7,94387.0,Good
+20663,Sales ,21,24,117040.0,Average
+20664,Marketing,51,26,75906.0,Excellent
+20665,Finance,31,4,103119.0,Good
+20666,Sales,58,5,117621.0,Average
+20667,engineering,59,24,140904.0,Good
+20668,Engineering,41,4,94210.0,Good
+20669,Marketing,33,31,83692.0,Good
+20670,Finance,30,3,140301.0,Good
+20671,HR,28,35,48877.0,Good
+20672,Finance,60,24,33801.0,
+20673,Sales,28,15,124559.0,Good
+20674,HR,38,9,84897.0,Good
+20675,Sales ,40,12,76303.0,Good
+20676,Marketing,48,26,71401.0,Excellent
+20677,Sales,54,27,153379.0,Excellent
+20678,Sales ,43,7,104064.0,Average
+20679,Sales ,51,19,123406.0,Average
+20680,engineering,43,35,50657.0,Good
+20681,Sales ,38,9,87892.0,Good
+20682,Sales ,27,24,117650.0,Good
+20683,engineering,29,6,94112.0,Good
+20684,Finance,38,30,94573.0,Excellent
+20685,Engineering,22,6,117632.0,Average
+20686,Finance,33,10,83323.0,Good
+20687,Marketing,39,16,94973.0,Average
+20688,Sales ,39,13,82138.0,Good
+20689,HR,53,6,69376.0,Poor
+20690,Marketing,59,23,188510.0,Good
+20691,Finance,50,0,,Good
+20692,Finance,24,35,63303.0,Good
+20693,Marketing,37,1,35530.0,Good
+20694,HR,50,12,73256.0,Average
+20695,HR,44,33,90642.0,Poor
+20696,Marketing,39,5,44397.0,Average
+20697,Marketing,38,2,90851.0,
+20698,Sales ,37,26,107384.0,Excellent
+20699,Sales,44,2,75675.0,Average
+20700,HR,28,32,129128.0,Average
+20701,Marketing,41,16,86376.0,Good
+20702,engineering,29,31,82320.0,Good
+20703,Engineering,48,8,80018.0,Average
+20704,engineering,55,5,71467.0,Poor
+20705,engineering,41,34,55297.0,Average
+20706,Sales,36,27,116635.0,Average
+20707,Sales,58,32,168903.0,Average
+20708,engineering,47,11,114189.0,Average
+20709,Marketing,38,14,125319.0,Good
+20710,Marketing,22,20,137530.0,Good
+20711,Sales ,21,16,97255.0,Average
+20712,Marketing,29,8,54839.0,Good
+20713,Finance,30,13,115664.0,Good
+20714,Marketing,49,21,155314.0,Good
+20715,Engineering,41,1,88174.0,Excellent
+20716,Marketing,60,12,113317.0,Average
+20717,Engineering,42,10,120854.0,Excellent
+20718,engineering,57,2,64553.0,Good
+20719,Finance,43,4,118533.0,Good
+20720,Marketing,35,17,125116.0,Average
+20721,Marketing,49,3,117964.0,Average
+20722,engineering,38,12,142174.0,Poor
+20723,Sales,31,20,,
+20724,Finance,39,31,133200.0,Good
+20725,Finance,47,3,113834.0,Average
+20726,Sales,36,15,137687.0,Good
+20727,Sales,49,3,121564.0,Poor
+20728,Marketing,60,15,106317.0,Average
+20729,Finance,37,17,60826.0,Good
+20730,Marketing,32,28,68845.0,Good
+20731,HR,37,15,67293.0,Good
+20732,Finance,54,33,105821.0,Good
+20733,Sales,28,4,121690.0,Good
+20734,Finance,59,1,141560.0,Good
+20735,Sales,37,0,97195.0,Poor
+20736,Sales,54,12,,Good
+20737,Sales,52,6,95471.0,Good
+20738,Marketing,52,3,103490.0,Average
+20739,Engineering,57,8,116462.0,Average
+20740,Marketing,28,35,43853.0,Average
+20741,Marketing,44,28,99562.0,Average
+20742,Sales ,24,0,69348.0,Good
+20743,Marketing,32,32,93377.0,Average
+20744,Sales ,22,7,136481.0,Good
+20745,Sales ,48,14,96582.0,Average
+20746,Engineering,45,11,,Poor
+20747,Marketing,50,14,87085.0,Average
+20748,engineering,28,27,100964.0,Average
+20749,Finance,34,25,121627.0,
+20750,Engineering,48,21,185548.0,Average
+20751,Finance,54,22,141649.0,Average
+20752,Sales ,56,26,117774.0,Average
+20753,Sales ,23,6,108917.0,Average
+20754,HR,37,14,86207.0,Good
+20755,Sales,21,3,157969.0,Good
+20756,Marketing,53,25,153864.0,Average
+20757,Marketing,25,15,97962.0,Good
+20758,Marketing,53,22,48100.0,Good
+20759,Marketing,27,20,132369.0,Good
+20760,HR,21,9,173132.0,Good
+20761,Engineering,56,4,73808.0,Average
+20762,Marketing,38,35,67182.0,Good
+20763,Marketing,37,10,122925.0,Good
+20764,Sales,46,3,74098.0,Good
+20765,Marketing,31,11,119082.0,
+20766,engineering,48,32,120938.0,Excellent
+20767,Marketing,38,9,103926.0,Average
+20768,Finance,31,35,44185.0,Good
+20769,Engineering,36,16,105447.0,Good
+20770,Marketing,21,31,71423.0,Good
+20771,HR,33,23,148899.0,Good
+20772,engineering,44,1,108100.0,Excellent
+20773,HR,26,18,98741.0,Good
+20774,HR,25,15,139661.0,Good
+20775,HR,47,7,132338.0,Poor
+20776,Marketing,38,19,108736.0,Good
+20777,Finance,26,3,156004.0,Excellent
+20778,engineering,50,25,134651.0,Good
+20779,Engineering,52,29,137049.0,Poor
+20780,Sales,22,3,131480.0,Excellent
+20781,Sales ,29,17,95135.0,Good
+20782,Finance,35,23,43205.0,Good
+20783,Marketing,50,2,103635.0,Poor
+20784,Finance,23,14,156233.0,Good
+20785,engineering,53,9,198790.0,Poor
+20786,Marketing,33,1,96821.0,Average
+20787,engineering,26,28,81830.0,Good
+20788,Marketing,55,16,87271.0,Excellent
+20789,Finance,24,27,53641.0,Average
+20790,Sales,26,21,61124.0,Excellent
+20791,Marketing,58,31,59143.0,Excellent
+20792,engineering,41,35,146097.0,Poor
+20793,Sales,39,21,138521.0,Average
+20794,engineering,48,12,60542.0,Good
+20795,Finance,46,15,86106.0,Good
+20796,Marketing,45,29,93638.0,Average
+20797,Engineering,21,15,40984.0,Good
+20798,engineering,43,18,69596.0,Good
+20799,Sales ,32,6,59812.0,Good
+20800,engineering,53,35,,Good

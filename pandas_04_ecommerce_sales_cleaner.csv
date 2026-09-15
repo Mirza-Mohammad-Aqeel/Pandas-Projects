@@ -1,0 +1,1101 @@
+Order_ID,Product,Category,Price,Quantity,Customer_Age,City
+50001,Keyboard,Mobile,28.97,3.0,38,Lahore
+50002,Headphones,Cameras,184.71,6.0,44,Lahore
+50003,Mouse,computers,94.42,7.0,50,karachi
+50004,Headphones,Mobile ,62.96,7.0,52,Lahore
+50005,Laptop,Accessories,203.31,2.0,69,Lahore
+50006,Tablet,Accessories,215.49,4.0,24,Islamabad
+50007,Keyboard,Accessories,58.95,4.0,62,Lahore
+50008,Tablet,Mobile ,59.66,,48,Lahore 
+50009,Monitor,Mobile ,41.33,5.0,32,Lahore
+50010,Mouse,Cameras,50.15,6.0,65,Peshawar
+50011,Mouse,computers,22.96,4.0,53,Peshawar
+50012,Phone,Computers,22.9,5.0,25,Lahore
+50013,Keyboard,computers,19.69,7.0,24,Peshawar
+50014,Headphones,computers,122.1,1.0,51,Lahore
+50015,Tablet,computers,21.87,5.0,55,Peshawar
+50016,Camera,Cameras,214.32,3.0,17,Karachi
+50017,Keyboard,Mobile ,37.53,7.0,49,Peshawar
+50018,Headphones,Cameras,186.66,4.0,44,Islamabad
+50019,Phone,Mobile ,47.59,5.0,68,Islamabad
+50020,Camera,Mobile,21.8,6.0,55,Karachi
+50021,Tablet,Cameras,139.0,2.0,65,Lahore 
+50022,Camera,Accessories,150.09,4.0,16,Karachi
+50023,Keyboard,Mobile ,33.48,6.0,57,Lahore
+50024,Monitor,Mobile ,48.64,6.0,33,Karachi
+50025,Tablet,Mobile ,33.49,2.0,45,Lahore 
+50026,Headphones,Mobile,55.79,6.0,63,Islamabad
+50027,Phone,Accessories,64.72,2.0,62,Peshawar
+50028,Mouse,Computers,,2.0,27,karachi
+50029,Headphones,Mobile ,18.5,6.0,28,Karachi
+50030,Keyboard,Mobile,41.36,5.0,54,Karachi
+50031,Monitor,Cameras,95.32,4.0,63,Lahore
+50032,Phone,Accessories,52.68,4.0,48,Quetta
+50033,Keyboard,Mobile ,48.77,7.0,18,Lahore 
+50034,Phone,computers,32.95,2.0,24,Quetta
+50035,Monitor,computers,40.59,3.0,56,Lahore 
+50036,Phone,Cameras,150.78,4.0,55,Lahore 
+50037,Keyboard,Computers,28.76,6.0,64,Lahore
+50038,Headphones,Mobile ,96.4,4.0,44,Lahore
+50039,Keyboard,Computers,62.21,6.0,38,Lahore
+50040,Phone,Accessories,70.75,6.0,21,karachi
+50041,Tablet,Accessories,37.49,7.0,58,Quetta
+50042,Keyboard,Accessories,48.01,4.0,67,Lahore 
+50043,Mouse,Mobile ,60.12,4.0,17,Peshawar
+50044,Mouse,Mobile,43.02,1.0,42,Lahore 
+50045,Mouse,Cameras,74.85,1.0,34,Lahore 
+50046,Keyboard,Mobile,,4.0,55,karachi
+50047,Tablet,Mobile ,247.71,6.0,56,karachi
+50048,Tablet,computers,72.3,6.0,26,Karachi
+50049,Camera,Accessories,17.41,3.0,67,karachi
+50050,Keyboard,Computers,128.5,4.0,22,Lahore 
+50051,Monitor,Computers,52.85,6.0,57,Islamabad
+50052,Laptop,Mobile,223.13,3.0,55,karachi
+50053,Keyboard,Accessories,156.98,2.0,23,Islamabad
+50054,Camera,Mobile ,43.45,7.0,52,Lahore
+50055,Monitor,Computers,96.47,4.0,29,karachi
+50056,Tablet,Cameras,41.01,2.0,30,Lahore
+50057,Tablet,Accessories,60.45,2.0,19,Peshawar
+50058,Headphones,Computers,93.63,3.0,56,Lahore 
+50059,Mouse,Cameras,,2.0,59,Lahore
+50060,Tablet,computers,107.97,4.0,42,Lahore
+50061,Laptop,Mobile ,63.35,6.0,57,Lahore 
+50062,Phone,Cameras,303.15,6.0,34,karachi
+50063,Phone,Mobile,47.6,7.0,46,Peshawar
+50064,Tablet,Mobile ,21.23,6.0,58,Islamabad
+50065,Keyboard,Mobile,24.06,3.0,38,Lahore 
+50066,Phone,computers,157.29,1.0,48,karachi
+50067,Laptop,Mobile ,57.41,2.0,22,Lahore 
+50068,Keyboard,Computers,66.91,6.0,42,Karachi
+50069,Keyboard,Mobile ,42.41,3.0,61,Peshawar
+50070,Phone,Mobile,44.96,6.0,57,karachi
+50071,Laptop,Accessories,36.18,4.0,31,Karachi
+50072,Tablet,Mobile,81.96,7.0,44,Peshawar
+50073,Tablet,Computers,56.64,4.0,49,Karachi
+50074,Phone,computers,80.06,7.0,66,Lahore 
+50075,Keyboard,Accessories,75.24,2.0,60,Quetta
+50076,Monitor,Cameras,45.75,6.0,59,Lahore
+50077,Keyboard,Accessories,23.38,4.0,56,Peshawar
+50078,Laptop,computers,22.09,2.0,34,Karachi
+50079,Camera,Mobile ,431.52,2.0,35,karachi
+50080,Headphones,Cameras,157.72,3.0,40,Lahore
+50081,Camera,Computers,144.19,2.0,38,Quetta
+50082,Monitor,Mobile,38.92,7.0,67,Karachi
+50083,Tablet,Accessories,60.71,2.0,63,Lahore
+50084,Mouse,Computers,35.52,5.0,64,Lahore 
+50085,Phone,Mobile,25.72,4.0,48,Islamabad
+50086,Monitor,Mobile,41.15,4.0,25,Karachi
+50087,Tablet,Mobile ,142.88,5.0,22,Quetta
+50088,Tablet,Accessories,104.22,7.0,30,Lahore
+50089,Headphones,Mobile ,32.12,7.0,50,Quetta
+50090,Phone,Cameras,49.17,7.0,35,karachi
+50091,Headphones,Cameras,98.19,4.0,51,Quetta
+50092,Camera,Mobile ,41.63,6.0,63,Lahore
+50093,Laptop,computers,63.54,2.0,33,Lahore
+50094,Monitor,Mobile,78.35,7.0,66,Lahore
+50095,Laptop,Mobile,77.8,2.0,43,Quetta
+50096,Laptop,Cameras,71.18,1.0,59,Quetta
+50097,Camera,Computers,39.45,6.0,18,Peshawar
+50098,Phone,Computers,42.18,6.0,30,Islamabad
+50099,Phone,Computers,28.88,1.0,66,Karachi
+50100,Laptop,computers,21.87,7.0,63,karachi
+50101,Camera,Accessories,,1.0,46,Quetta
+50102,Keyboard,Computers,102.57,1.0,16,Quetta
+50103,Tablet,computers,24.6,7.0,18,Karachi
+50104,Monitor,Cameras,72.06,2.0,38,Islamabad
+50105,Headphones,computers,100.49,2.0,64,Islamabad
+50106,Camera,Computers,18.29,6.0,35,Quetta
+50107,Headphones,Mobile ,50.61,5.0,63,karachi
+50108,Mouse,Mobile,175.92,4.0,44,Lahore 
+50109,Phone,Cameras,86.38,7.0,22,Peshawar
+50110,Phone,Cameras,17.89,1.0,45,Islamabad
+50111,Mouse,Mobile,92.57,7.0,35,Islamabad
+50112,Keyboard,Accessories,37.11,2.0,27,karachi
+50113,Laptop,Computers,94.57,5.0,52,Islamabad
+50114,Phone,Accessories,38.53,3.0,26,Islamabad
+50115,Keyboard,computers,58.3,3.0,64,karachi
+50116,Phone,Mobile,42.55,3.0,59,Peshawar
+50117,Mouse,Cameras,60.46,4.0,58,Peshawar
+50118,Monitor,Mobile ,41.73,7.0,19,karachi
+50119,Monitor,Mobile,52.18,1.0,67,Islamabad
+50120,Laptop,Mobile,28.1,5.0,42,Karachi
+50121,Mouse,Computers,83.01,7.0,55,karachi
+50122,Phone,Cameras,67.62,6.0,25,Peshawar
+50123,Headphones,Mobile,21.1,7.0,57,Islamabad
+50124,Camera,Mobile ,115.05,1.0,32,Karachi
+50125,Camera,Mobile,53.81,,53,Lahore 
+50126,Headphones,Cameras,67.03,3.0,30,karachi
+50127,Tablet,Mobile,99.18,4.0,66,Lahore
+50128,Camera,Mobile,74.69,3.0,53,Quetta
+50129,Headphones,Mobile,128.69,2.0,39,Peshawar
+50130,Monitor,Cameras,49.87,6.0,40,Islamabad
+50131,Mouse,Computers,118.2,2.0,15,Islamabad
+50132,Tablet,Computers,65.36,7.0,31,Karachi
+50133,Headphones,Cameras,83.93,1.0,58,Lahore 
+50134,Monitor,Cameras,78.44,3.0,60,Lahore 
+50135,Phone,Mobile,135.16,5.0,69,Lahore 
+50136,Phone,Accessories,96.44,7.0,19,Islamabad
+50137,Keyboard,Accessories,45.24,6.0,28,Lahore 
+50138,Tablet,computers,39.77,1.0,57,Lahore
+50139,Mouse,Accessories,58.42,6.0,34,karachi
+50140,Laptop,Mobile ,36.82,3.0,28,Karachi
+50141,Camera,Mobile,30.45,7.0,30,Islamabad
+50142,Keyboard,Mobile,15.13,6.0,65,Quetta
+50143,Keyboard,Accessories,22.04,2.0,62,Lahore 
+50144,Tablet,Computers,219.32,3.0,15,Lahore
+50145,Keyboard,computers,39.38,6.0,61,Peshawar
+50146,Mouse,Accessories,207.94,7.0,45,karachi
+50147,Camera,Accessories,78.42,5.0,61,Peshawar
+50148,Mouse,Cameras,58.42,2.0,49,Quetta
+50149,Mouse,Computers,22.75,3.0,52,Islamabad
+50150,Monitor,Accessories,60.52,6.0,46,Karachi
+50151,Camera,Mobile ,206.42,5.0,55,Lahore
+50152,Laptop,Cameras,,2.0,59,Peshawar
+50153,Monitor,Cameras,72.11,2.0,42,Karachi
+50154,Camera,Cameras,28.6,2.0,21,Lahore
+50155,Keyboard,Accessories,32.39,4.0,20,Lahore 
+50156,Phone,Mobile ,34.67,4.0,37,Karachi
+50157,Keyboard,Mobile ,138.49,4.0,41,Lahore
+50158,Monitor,Accessories,174.27,7.0,62,Quetta
+50159,Mouse,Mobile ,68.53,5.0,16,Peshawar
+50160,Phone,Computers,49.55,5.0,63,Lahore
+50161,Keyboard,Mobile,165.12,3.0,18,Karachi
+50162,Camera,Mobile,31.94,5.0,42,Lahore 
+50163,Laptop,computers,62.41,7.0,38,Peshawar
+50164,Tablet,Cameras,81.53,1.0,45,Quetta
+50165,Laptop,Accessories,34.44,3.0,17,Karachi
+50166,Keyboard,Mobile,39.91,1.0,57,Lahore
+50167,Headphones,Cameras,37.94,2.0,22,Karachi
+50168,Camera,Mobile,151.54,1.0,57,Lahore 
+50169,Monitor,Accessories,209.42,5.0,46,karachi
+50170,Laptop,Accessories,65.01,6.0,63,Peshawar
+50171,Tablet,Mobile ,50.69,7.0,68,Quetta
+50172,Camera,computers,40.86,2.0,61,Lahore
+50173,Mouse,Mobile,60.41,5.0,39,Lahore 
+50174,Laptop,Mobile ,42.2,3.0,37,Peshawar
+50175,Mouse,Cameras,56.65,3.0,51,Peshawar
+50176,Keyboard,Accessories,78.93,5.0,50,Lahore 
+50177,Keyboard,Cameras,46.37,5.0,58,Karachi
+50178,Laptop,Mobile,53.34,5.0,41,Islamabad
+50179,Monitor,Computers,53.49,1.0,40,Karachi
+50180,Camera,Accessories,49.09,3.0,21,Islamabad
+50181,Laptop,computers,45.29,2.0,24,Lahore
+50182,Camera,Accessories,99.03,1.0,60,Peshawar
+50183,Mouse,Accessories,19.09,1.0,69,Quetta
+50184,Mouse,Mobile ,167.89,4.0,48,Lahore
+50185,Camera,Mobile ,65.9,1.0,33,Karachi
+50186,Phone,Accessories,89.7,6.0,18,Lahore
+50187,Camera,Computers,96.67,1.0,17,karachi
+50188,Monitor,computers,38.08,2.0,52,Quetta
+50189,Monitor,computers,33.3,7.0,50,Lahore 
+50190,Keyboard,Mobile ,30.85,5.0,30,Lahore 
+50191,Mouse,Mobile ,51.39,4.0,25,Lahore
+50192,Monitor,Cameras,95.06,1.0,18,karachi
+50193,Tablet,Computers,41.29,1.0,52,Karachi
+50194,Laptop,Mobile,89.58,7.0,48,Karachi
+50195,Headphones,computers,12.95,6.0,33,karachi
+50196,Headphones,Cameras,46.96,7.0,55,Islamabad
+50197,Mouse,Accessories,128.85,6.0,61,Lahore 
+50198,Mouse,Accessories,53.99,1.0,43,Karachi
+50199,Headphones,computers,35.2,6.0,29,Peshawar
+50200,Camera,Accessories,39.37,4.0,15,Islamabad
+50201,Phone,Computers,10.0,5.0,58,Lahore 
+50202,Keyboard,Mobile ,31.26,3.0,46,Quetta
+50203,Mouse,Accessories,119.97,6.0,34,karachi
+50204,Monitor,Mobile,41.32,6.0,15,Islamabad
+50205,Camera,Computers,44.61,7.0,59,Lahore 
+50206,Mouse,Accessories,13.25,4.0,65,karachi
+50207,Mouse,Mobile ,20.9,2.0,41,karachi
+50208,Phone,Computers,130.78,5.0,29,Peshawar
+50209,Keyboard,Mobile,90.13,4.0,49,Lahore 
+50210,Headphones,Mobile,25.96,2.0,62,Quetta
+50211,Keyboard,Computers,40.05,6.0,47,Karachi
+50212,Tablet,Cameras,59.21,1.0,15,Lahore 
+50213,Phone,Mobile,27.73,3.0,25,Karachi
+50214,Phone,computers,,5.0,20,Quetta
+50215,Monitor,Accessories,54.41,7.0,37,Lahore
+50216,Monitor,Cameras,87.55,5.0,39,Lahore 
+50217,Tablet,Computers,88.65,7.0,44,karachi
+50218,Tablet,Mobile,106.58,6.0,56,karachi
+50219,Keyboard,Accessories,21.98,2.0,21,Quetta
+50220,Mouse,Computers,62.65,6.0,66,Peshawar
+50221,Monitor,Accessories,50.68,3.0,29,Lahore 
+50222,Mouse,Accessories,57.01,5.0,43,Islamabad
+50223,Headphones,Accessories,52.58,2.0,26,Peshawar
+50224,Headphones,Cameras,39.28,4.0,34,Islamabad
+50225,Camera,computers,10.0,5.0,60,Karachi
+50226,Mouse,computers,128.4,7.0,17,Lahore 
+50227,Monitor,Computers,74.78,7.0,41,Peshawar
+50228,Laptop,Cameras,22.99,6.0,47,Karachi
+50229,Headphones,Mobile ,82.07,4.0,46,karachi
+50230,Tablet,Mobile ,45.12,7.0,35,Lahore 
+50231,Mouse,Mobile,45.96,1.0,35,Quetta
+50232,Camera,computers,36.62,7.0,65,Islamabad
+50233,Monitor,computers,85.54,2.0,28,Lahore 
+50234,Laptop,Accessories,35.88,3.0,41,karachi
+50235,Headphones,Mobile ,29.58,7.0,35,Lahore
+50236,Laptop,Cameras,125.92,6.0,57,Islamabad
+50237,Laptop,computers,53.72,6.0,59,Lahore 
+50238,Headphones,computers,54.82,5.0,61,Lahore 
+50239,Keyboard,computers,94.64,5.0,19,Quetta
+50240,Mouse,Mobile ,39.1,2.0,20,Karachi
+50241,Headphones,Mobile ,44.51,7.0,35,Lahore
+50242,Keyboard,Accessories,73.61,5.0,39,Islamabad
+50243,Mouse,Cameras,22.16,5.0,18,Peshawar
+50244,Mouse,Cameras,69.67,3.0,64,Lahore 
+50245,Mouse,Mobile ,36.92,7.0,64,karachi
+50246,Headphones,Accessories,105.22,4.0,38,Lahore
+50247,Keyboard,Mobile,86.08,2.0,57,Karachi
+50248,Mouse,computers,79.0,2.0,46,Lahore
+50249,Mouse,Mobile ,21.23,5.0,51,Lahore
+50250,Phone,Mobile ,56.42,6.0,63,Lahore 
+50251,Phone,Computers,28.07,2.0,20,Karachi
+50252,Laptop,Mobile ,58.91,5.0,27,karachi
+50253,Phone,computers,13.4,7.0,38,Quetta
+50254,Keyboard,Computers,22.16,4.0,64,Karachi
+50255,Camera,Computers,130.7,7.0,47,Quetta
+50256,Camera,Mobile,76.7,2.0,36,Quetta
+50257,Tablet,Mobile ,47.94,3.0,16,Karachi
+50258,Mouse,computers,33.43,4.0,47,Lahore
+50259,Phone,Cameras,29.82,3.0,29,Islamabad
+50260,Monitor,Cameras,68.72,1.0,33,Lahore
+50261,Tablet,Accessories,48.26,4.0,69,Quetta
+50262,Camera,Mobile ,164.9,3.0,43,Quetta
+50263,Camera,Computers,53.51,2.0,22,Lahore
+50264,Keyboard,Mobile,62.69,3.0,17,Karachi
+50265,Keyboard,Mobile,24.47,3.0,36,Quetta
+50266,Mouse,Mobile ,47.73,7.0,18,Peshawar
+50267,Laptop,Cameras,67.7,4.0,38,Lahore
+50268,Laptop,computers,47.36,3.0,37,Lahore
+50269,Laptop,Mobile ,44.01,3.0,63,Karachi
+50270,Headphones,Mobile,74.63,5.0,33,karachi
+50271,Phone,Mobile ,161.52,2.0,30,karachi
+50272,Headphones,Computers,66.3,7.0,48,Peshawar
+50273,Keyboard,computers,126.94,3.0,50,Islamabad
+50274,Tablet,computers,90.38,3.0,17,Lahore
+50275,Laptop,computers,122.1,1.0,19,Islamabad
+50276,Monitor,Computers,40.6,7.0,24,Lahore 
+50277,Phone,Mobile ,52.75,4.0,57,Karachi
+50278,Keyboard,computers,52.89,1.0,26,karachi
+50279,Mouse,Computers,86.06,2.0,69,Islamabad
+50280,Phone,Cameras,100.99,3.0,39,Lahore
+50281,Headphones,computers,65.45,6.0,66,karachi
+50282,Camera,Accessories,106.68,1.0,28,Lahore 
+50283,Laptop,Accessories,41.84,1.0,38,Lahore 
+50284,Laptop,Mobile,107.29,4.0,22,Lahore
+50285,Camera,Cameras,116.78,4.0,61,Quetta
+50286,Headphones,Mobile ,93.73,7.0,47,Islamabad
+50287,Camera,Cameras,65.84,6.0,19,Lahore
+50288,Headphones,computers,95.93,,55,Islamabad
+50289,Headphones,computers,33.75,3.0,63,Karachi
+50290,Phone,computers,68.64,5.0,52,Lahore
+50291,Mouse,Accessories,73.36,5.0,59,Quetta
+50292,Monitor,computers,25.43,2.0,30,Quetta
+50293,Tablet,Mobile,82.14,3.0,38,Lahore
+50294,Laptop,Cameras,26.8,7.0,61,Peshawar
+50295,Laptop,Mobile,45.69,4.0,48,karachi
+50296,Mouse,Mobile ,61.92,4.0,48,Lahore 
+50297,Camera,computers,37.53,6.0,57,Peshawar
+50298,Camera,Cameras,63.67,2.0,48,Lahore
+50299,Mouse,Accessories,63.01,2.0,21,Quetta
+50300,Keyboard,Cameras,35.41,7.0,26,Lahore
+50301,Monitor,computers,87.29,6.0,57,Karachi
+50302,Camera,Mobile,36.72,3.0,28,Islamabad
+50303,Phone,computers,266.98,7.0,51,Islamabad
+50304,Phone,Mobile,56.2,3.0,41,Lahore
+50305,Mouse,Computers,28.18,5.0,49,Karachi
+50306,Keyboard,computers,31.82,1.0,28,Lahore 
+50307,Keyboard,computers,127.22,5.0,32,Quetta
+50308,Camera,Accessories,46.25,2.0,52,karachi
+50309,Monitor,Cameras,24.87,2.0,24,Karachi
+50310,Camera,computers,105.1,6.0,31,karachi
+50311,Phone,computers,46.06,2.0,69,Islamabad
+50312,Monitor,Mobile ,92.27,4.0,23,karachi
+50313,Laptop,Mobile ,110.84,7.0,46,Peshawar
+50314,Headphones,Accessories,72.13,7.0,23,Lahore
+50315,Tablet,Mobile,286.39,4.0,53,Lahore
+50316,Camera,Computers,19.67,1.0,21,Karachi
+50317,Phone,Cameras,35.46,3.0,46,karachi
+50318,Tablet,Cameras,51.09,5.0,39,Peshawar
+50319,Phone,computers,262.37,3.0,53,karachi
+50320,Headphones,Computers,194.16,6.0,15,karachi
+50321,Headphones,computers,139.44,7.0,43,Lahore
+50322,Phone,computers,36.01,5.0,44,Islamabad
+50323,Laptop,computers,38.85,5.0,28,Karachi
+50324,Laptop,Cameras,35.21,4.0,31,Karachi
+50325,Headphones,Computers,36.26,2.0,53,Lahore 
+50326,Mouse,Accessories,159.22,5.0,45,Quetta
+50327,Laptop,Cameras,51.5,7.0,46,Peshawar
+50328,Mouse,Cameras,56.12,5.0,66,Lahore
+50329,Tablet,Cameras,99.82,6.0,37,Quetta
+50330,Phone,Cameras,20.46,7.0,62,Peshawar
+50331,Mouse,Cameras,62.44,3.0,68,Lahore
+50332,Monitor,Mobile,29.58,3.0,46,Karachi
+50333,Monitor,Cameras,49.83,7.0,26,Peshawar
+50334,Keyboard,Mobile,41.22,4.0,37,Peshawar
+50335,Monitor,Accessories,39.86,6.0,17,karachi
+50336,Keyboard,Accessories,69.87,5.0,53,Islamabad
+50337,Phone,computers,69.67,1.0,30,Karachi
+50338,Keyboard,Mobile ,52.31,3.0,65,Lahore 
+50339,Mouse,Cameras,76.78,3.0,50,Islamabad
+50340,Keyboard,Computers,34.31,2.0,41,karachi
+50341,Headphones,computers,93.98,6.0,25,Karachi
+50342,Laptop,Mobile,52.77,7.0,20,Karachi
+50343,Phone,Computers,44.06,7.0,51,Karachi
+50344,Tablet,Mobile,36.0,2.0,57,karachi
+50345,Keyboard,Mobile ,51.58,4.0,29,Lahore
+50346,Mouse,Accessories,203.55,2.0,15,karachi
+50347,Headphones,Mobile,57.91,1.0,32,Lahore 
+50348,Phone,Computers,28.68,5.0,57,Quetta
+50349,Camera,Cameras,109.64,7.0,46,Lahore 
+50350,Keyboard,computers,44.4,1.0,19,Lahore 
+50351,Camera,Accessories,,5.0,21,karachi
+50352,Keyboard,Computers,,1.0,20,karachi
+50353,Keyboard,Accessories,138.73,6.0,56,Quetta
+50354,Mouse,Cameras,41.1,1.0,57,Lahore
+50355,Phone,Computers,149.7,4.0,37,Karachi
+50356,Mouse,Mobile,30.51,1.0,52,Islamabad
+50357,Camera,Computers,49.88,3.0,16,Peshawar
+50358,Headphones,Accessories,,4.0,45,Islamabad
+50359,Laptop,Mobile,67.31,4.0,29,Karachi
+50360,Headphones,Mobile,264.13,6.0,60,Peshawar
+50361,Laptop,Computers,50.66,7.0,41,Peshawar
+50362,Laptop,computers,71.31,3.0,61,Lahore 
+50363,Monitor,Accessories,208.17,7.0,45,Lahore 
+50364,Monitor,Mobile ,22.55,3.0,40,Quetta
+50365,Laptop,Accessories,,1.0,67,karachi
+50366,Laptop,Mobile,35.98,5.0,69,Islamabad
+50367,Tablet,Mobile,102.38,6.0,40,Lahore 
+50368,Keyboard,Mobile ,21.19,3.0,34,Lahore 
+50369,Phone,Cameras,88.95,5.0,50,Karachi
+50370,Keyboard,Mobile,84.98,4.0,24,Quetta
+50371,Headphones,Cameras,223.49,2.0,36,Peshawar
+50372,Headphones,Cameras,119.05,3.0,61,Lahore
+50373,Monitor,Computers,76.45,3.0,64,Islamabad
+50374,Phone,computers,145.98,3.0,37,Lahore 
+50375,Camera,Computers,85.65,7.0,36,Lahore 
+50376,Headphones,Mobile,44.74,3.0,63,Islamabad
+50377,Camera,computers,28.67,5.0,26,Peshawar
+50378,Monitor,Accessories,41.68,1.0,18,Peshawar
+50379,Laptop,Mobile,58.79,3.0,19,karachi
+50380,Keyboard,Computers,67.61,7.0,21,Peshawar
+50381,Monitor,Cameras,15.06,7.0,63,Islamabad
+50382,Headphones,computers,52.32,7.0,17,Lahore 
+50383,Headphones,Mobile,61.47,1.0,33,Islamabad
+50384,Laptop,Accessories,86.13,7.0,48,Lahore
+50385,Mouse,Accessories,173.72,2.0,48,Islamabad
+50386,Monitor,Mobile ,68.08,1.0,60,Islamabad
+50387,Mouse,computers,33.41,1.0,68,Peshawar
+50388,Keyboard,Mobile,18.51,6.0,37,Quetta
+50389,Mouse,Cameras,94.31,5.0,27,Karachi
+50390,Headphones,Mobile ,34.3,5.0,19,Lahore 
+50391,Monitor,Accessories,106.0,7.0,64,Lahore
+50392,Phone,Computers,149.65,1.0,35,Karachi
+50393,Headphones,Mobile,22.12,1.0,64,Quetta
+50394,Camera,Cameras,86.49,7.0,34,Lahore
+50395,Keyboard,Mobile ,139.8,5.0,56,karachi
+50396,Camera,Mobile,117.02,6.0,50,Lahore 
+50397,Phone,Computers,15.45,4.0,54,Quetta
+50398,Tablet,Mobile,34.64,2.0,50,karachi
+50399,Camera,Accessories,26.26,4.0,31,Peshawar
+50400,Monitor,Computers,84.8,7.0,20,Islamabad
+50401,Phone,Computers,78.94,1.0,15,Quetta
+50402,Headphones,Cameras,10.45,1.0,38,Islamabad
+50403,Tablet,computers,49.62,3.0,64,Lahore 
+50404,Laptop,Mobile,101.54,4.0,50,Peshawar
+50405,Headphones,Cameras,66.43,5.0,52,Peshawar
+50406,Tablet,Cameras,66.36,2.0,29,Quetta
+50407,Laptop,computers,47.6,7.0,41,Lahore
+50408,Mouse,Mobile ,30.32,2.0,37,Peshawar
+50409,Laptop,Mobile ,59.68,2.0,22,karachi
+50410,Phone,Mobile,62.42,7.0,48,karachi
+50411,Keyboard,Mobile ,90.01,3.0,34,Lahore
+50412,Monitor,Computers,94.89,5.0,37,Karachi
+50413,Laptop,Mobile ,63.8,4.0,47,Lahore
+50414,Tablet,Computers,122.94,2.0,16,karachi
+50415,Phone,Computers,47.29,4.0,66,Lahore
+50416,Tablet,Computers,23.6,6.0,27,Karachi
+50417,Phone,Computers,82.28,1.0,52,Quetta
+50418,Mouse,Accessories,65.51,7.0,57,Lahore 
+50419,Headphones,Cameras,83.35,2.0,23,Lahore
+50420,Keyboard,computers,26.53,7.0,28,Karachi
+50421,Keyboard,Computers,193.26,7.0,37,Karachi
+50422,Tablet,Mobile,95.76,7.0,59,Karachi
+50423,Laptop,Computers,50.04,5.0,49,Lahore
+50424,Tablet,Computers,32.85,7.0,40,Lahore
+50425,Headphones,computers,121.53,7.0,61,Quetta
+50426,Tablet,Cameras,29.48,5.0,41,Lahore
+50427,Keyboard,Mobile,262.4,7.0,63,Peshawar
+50428,Keyboard,Mobile,40.5,3.0,57,Islamabad
+50429,Mouse,Mobile ,184.63,6.0,24,Quetta
+50430,Headphones,Cameras,53.52,7.0,36,Quetta
+50431,Camera,Mobile,168.59,5.0,16,Quetta
+50432,Tablet,Mobile ,37.42,1.0,28,Lahore 
+50433,Laptop,Mobile,61.08,2.0,16,Lahore
+50434,Phone,Mobile,101.81,2.0,20,Peshawar
+50435,Camera,computers,92.79,4.0,15,Islamabad
+50436,Keyboard,Cameras,123.41,4.0,51,Peshawar
+50437,Mouse,Computers,43.95,6.0,37,Karachi
+50438,Laptop,computers,63.76,2.0,40,Islamabad
+50439,Laptop,Mobile,135.84,2.0,57,Lahore 
+50440,Keyboard,computers,38.15,5.0,59,karachi
+50441,Headphones,Accessories,87.54,1.0,44,Islamabad
+50442,Tablet,computers,52.33,7.0,40,Karachi
+50443,Camera,Mobile ,68.98,1.0,50,Quetta
+50444,Phone,computers,63.75,4.0,37,Islamabad
+50445,Phone,Mobile ,36.15,7.0,39,Islamabad
+50446,Mouse,Cameras,50.93,4.0,31,Karachi
+50447,Mouse,Computers,66.3,6.0,25,Islamabad
+50448,Laptop,Cameras,56.44,3.0,25,Lahore
+50449,Keyboard,Accessories,167.72,6.0,51,Karachi
+50450,Camera,computers,116.33,5.0,60,Quetta
+50451,Phone,Mobile,72.86,4.0,38,Lahore 
+50452,Tablet,computers,36.74,1.0,20,Karachi
+50453,Keyboard,Accessories,35.32,7.0,48,Karachi
+50454,Mouse,computers,217.67,1.0,64,Karachi
+50455,Headphones,Accessories,31.3,3.0,44,Peshawar
+50456,Headphones,Accessories,64.98,5.0,16,karachi
+50457,Headphones,Mobile,,6.0,19,Islamabad
+50458,Laptop,computers,49.29,4.0,43,Karachi
+50459,Monitor,Computers,31.46,3.0,62,Karachi
+50460,Tablet,Mobile,36.23,3.0,18,Quetta
+50461,Laptop,Accessories,42.3,7.0,56,Islamabad
+50462,Headphones,Computers,38.05,3.0,57,Islamabad
+50463,Mouse,Mobile ,143.02,6.0,17,Lahore
+50464,Laptop,Accessories,59.98,1.0,26,Lahore 
+50465,Laptop,Mobile,42.93,5.0,15,Islamabad
+50466,Camera,Mobile,64.68,5.0,46,Quetta
+50467,Laptop,Mobile,93.15,5.0,24,karachi
+50468,Laptop,Cameras,48.23,3.0,65,Karachi
+50469,Laptop,Accessories,108.45,5.0,20,Lahore
+50470,Headphones,Mobile,26.41,4.0,50,Lahore 
+50471,Camera,Mobile ,129.2,5.0,58,Lahore 
+50472,Phone,Cameras,59.99,,24,Islamabad
+50473,Tablet,Accessories,58.49,5.0,28,Lahore
+50474,Headphones,Cameras,38.46,6.0,58,Islamabad
+50475,Phone,Cameras,27.16,7.0,20,Lahore 
+50476,Laptop,Computers,,2.0,39,Quetta
+50477,Keyboard,computers,36.75,5.0,28,Karachi
+50478,Laptop,Mobile,88.41,5.0,15,karachi
+50479,Laptop,Computers,32.3,5.0,39,Lahore
+50480,Keyboard,Cameras,22.05,1.0,41,Islamabad
+50481,Tablet,Mobile ,33.42,6.0,34,Peshawar
+50482,Camera,computers,,2.0,59,Islamabad
+50483,Headphones,Mobile,48.2,3.0,20,Quetta
+50484,Monitor,Accessories,55.49,5.0,38,Lahore
+50485,Monitor,Cameras,118.06,2.0,24,Lahore 
+50486,Mouse,Mobile,135.91,1.0,56,Quetta
+50487,Phone,computers,222.19,5.0,45,Islamabad
+50488,Mouse,Mobile,,2.0,53,Lahore 
+50489,Tablet,Mobile,34.59,6.0,20,Peshawar
+50490,Tablet,Computers,95.01,7.0,40,Islamabad
+50491,Laptop,computers,44.92,3.0,17,Karachi
+50492,Monitor,Computers,105.58,6.0,32,Lahore 
+50493,Monitor,computers,69.04,2.0,66,karachi
+50494,Mouse,Mobile ,168.42,7.0,54,Lahore
+50495,Phone,Computers,118.84,2.0,19,Lahore 
+50496,Camera,Computers,120.26,7.0,35,karachi
+50497,Camera,Mobile ,46.17,6.0,62,Islamabad
+50498,Monitor,Computers,56.64,3.0,24,Lahore 
+50499,Keyboard,Accessories,49.48,6.0,56,Peshawar
+50500,Keyboard,Mobile ,22.67,5.0,32,Quetta
+50501,Laptop,Computers,,5.0,41,Lahore
+50502,Camera,Cameras,97.95,3.0,63,Karachi
+50503,Tablet,Accessories,48.22,2.0,51,Peshawar
+50504,Monitor,Accessories,140.89,5.0,30,Islamabad
+50505,Mouse,Mobile ,40.06,1.0,15,Lahore 
+50506,Keyboard,Cameras,18.27,3.0,27,Karachi
+50507,Phone,Mobile,116.14,1.0,37,karachi
+50508,Monitor,Mobile ,26.28,1.0,22,Quetta
+50509,Laptop,Cameras,53.13,1.0,63,Lahore 
+50510,Tablet,Computers,68.99,1.0,18,Lahore 
+50511,Headphones,Accessories,77.52,7.0,44,Lahore 
+50512,Camera,Mobile,104.74,6.0,68,Islamabad
+50513,Laptop,Cameras,88.02,7.0,33,Quetta
+50514,Headphones,Mobile ,86.27,1.0,44,Lahore
+50515,Mouse,Computers,36.09,7.0,19,Peshawar
+50516,Mouse,computers,73.06,5.0,55,Lahore
+50517,Camera,Mobile ,22.68,6.0,68,Lahore
+50518,Keyboard,Mobile ,166.57,7.0,57,Peshawar
+50519,Phone,Cameras,24.25,2.0,23,Karachi
+50520,Laptop,Mobile,48.17,6.0,34,Peshawar
+50521,Keyboard,Computers,25.6,5.0,54,Islamabad
+50522,Phone,Mobile ,37.54,3.0,58,Lahore
+50523,Phone,Accessories,60.87,4.0,37,Peshawar
+50524,Phone,Accessories,,2.0,67,karachi
+50525,Monitor,computers,126.95,2.0,26,Quetta
+50526,Laptop,computers,69.93,7.0,55,Karachi
+50527,Keyboard,computers,44.66,6.0,42,Peshawar
+50528,Headphones,Mobile ,55.32,4.0,54,Quetta
+50529,Monitor,Mobile ,133.33,5.0,47,Quetta
+50530,Phone,Mobile,108.94,3.0,38,Islamabad
+50531,Mouse,Mobile,28.78,2.0,59,Karachi
+50532,Laptop,Mobile,38.77,7.0,61,Karachi
+50533,Headphones,Cameras,82.16,7.0,59,Islamabad
+50534,Keyboard,Cameras,75.92,2.0,19,Quetta
+50535,Keyboard,Mobile ,30.49,6.0,38,karachi
+50536,Phone,Mobile ,98.19,4.0,56,Quetta
+50537,Monitor,computers,33.82,5.0,62,Islamabad
+50538,Phone,Computers,140.82,1.0,34,Peshawar
+50539,Mouse,computers,85.13,4.0,55,Karachi
+50540,Phone,Mobile ,28.91,1.0,46,karachi
+50541,Headphones,Mobile ,42.78,6.0,27,Islamabad
+50542,Monitor,Accessories,42.3,3.0,64,Peshawar
+50543,Mouse,computers,66.95,2.0,39,Peshawar
+50544,Mouse,Accessories,52.85,5.0,48,Islamabad
+50545,Headphones,Computers,28.66,7.0,30,Lahore
+50546,Tablet,Accessories,24.38,3.0,16,Lahore 
+50547,Mouse,Mobile,86.22,6.0,39,Karachi
+50548,Tablet,Mobile ,72.68,5.0,54,Lahore 
+50549,Monitor,Mobile,64.62,4.0,32,Karachi
+50550,Tablet,Computers,71.95,6.0,66,Karachi
+50551,Monitor,Cameras,40.35,1.0,56,Lahore 
+50552,Headphones,Cameras,68.01,7.0,50,Lahore 
+50553,Keyboard,Cameras,314.2,3.0,59,Lahore 
+50554,Camera,Computers,129.47,1.0,62,karachi
+50555,Monitor,Accessories,50.03,7.0,54,Peshawar
+50556,Mouse,Mobile ,42.94,6.0,60,Karachi
+50557,Phone,Computers,10.0,6.0,54,Quetta
+50558,Headphones,computers,120.86,2.0,62,Peshawar
+50559,Laptop,Computers,100.61,6.0,20,karachi
+50560,Keyboard,Mobile,42.37,5.0,33,Karachi
+50561,Laptop,Mobile ,23.79,7.0,63,Karachi
+50562,Monitor,Mobile,28.48,3.0,41,Quetta
+50563,Keyboard,Cameras,80.55,7.0,15,karachi
+50564,Monitor,Accessories,56.94,5.0,61,Lahore 
+50565,Keyboard,Cameras,94.59,2.0,51,Peshawar
+50566,Phone,Accessories,63.83,2.0,65,Islamabad
+50567,Headphones,Accessories,113.11,7.0,15,Peshawar
+50568,Tablet,computers,76.72,5.0,23,Peshawar
+50569,Keyboard,Cameras,,1.0,43,Quetta
+50570,Laptop,Cameras,15.51,1.0,24,Lahore
+50571,Laptop,computers,27.05,6.0,43,Islamabad
+50572,Headphones,Accessories,,2.0,34,Peshawar
+50573,Camera,computers,121.72,2.0,26,karachi
+50574,Tablet,computers,204.86,5.0,57,karachi
+50575,Keyboard,Mobile ,54.23,7.0,17,karachi
+50576,Keyboard,Accessories,40.55,3.0,63,Lahore
+50577,Phone,Cameras,16.93,5.0,23,Islamabad
+50578,Laptop,Computers,105.78,5.0,46,Peshawar
+50579,Tablet,Computers,42.2,5.0,69,Lahore 
+50580,Keyboard,Computers,412.78,5.0,21,Islamabad
+50581,Keyboard,Cameras,37.31,2.0,65,Lahore 
+50582,Monitor,Mobile,237.09,5.0,31,karachi
+50583,Monitor,Mobile,98.14,1.0,55,Quetta
+50584,Camera,Cameras,30.93,,62,Quetta
+50585,Tablet,Accessories,70.17,6.0,27,karachi
+50586,Headphones,Computers,99.62,6.0,34,Quetta
+50587,Keyboard,Cameras,52.12,1.0,62,Quetta
+50588,Headphones,Cameras,104.03,7.0,20,Islamabad
+50589,Monitor,Computers,102.55,4.0,20,Islamabad
+50590,Mouse,Mobile,88.91,1.0,31,Quetta
+50591,Phone,Mobile,59.7,4.0,48,karachi
+50592,Headphones,computers,28.11,5.0,59,Quetta
+50593,Laptop,Mobile,57.4,3.0,45,Lahore 
+50594,Headphones,Computers,67.66,6.0,42,Quetta
+50595,Mouse,Mobile,17.82,4.0,62,Islamabad
+50596,Laptop,Accessories,67.36,2.0,24,Quetta
+50597,Mouse,computers,56.66,5.0,64,Quetta
+50598,Phone,Computers,25.98,2.0,32,Lahore 
+50599,Keyboard,Mobile ,48.6,1.0,30,Lahore
+50600,Laptop,Mobile,49.27,2.0,67,Lahore
+50601,Headphones,Accessories,211.57,7.0,50,Lahore
+50602,Mouse,Computers,69.62,5.0,38,Karachi
+50603,Monitor,Mobile,118.32,3.0,33,Quetta
+50604,Camera,Accessories,55.89,3.0,39,Lahore 
+50605,Headphones,Cameras,17.85,7.0,58,Quetta
+50606,Mouse,computers,93.41,5.0,23,Karachi
+50607,Phone,Cameras,39.34,6.0,24,Islamabad
+50608,Mouse,Computers,48.51,5.0,31,Lahore 
+50609,Headphones,Accessories,30.43,7.0,41,Karachi
+50610,Camera,computers,63.26,5.0,59,Quetta
+50611,Mouse,Cameras,120.59,3.0,26,Peshawar
+50612,Phone,Cameras,110.64,2.0,58,Lahore 
+50613,Headphones,Cameras,169.19,1.0,64,Peshawar
+50614,Laptop,Cameras,185.52,6.0,38,Peshawar
+50615,Monitor,Mobile ,15.96,7.0,67,karachi
+50616,Camera,Cameras,27.78,5.0,64,karachi
+50617,Tablet,Cameras,18.63,4.0,58,Peshawar
+50618,Camera,Accessories,90.99,1.0,35,karachi
+50619,Monitor,Accessories,38.46,5.0,31,karachi
+50620,Headphones,computers,43.91,2.0,62,Peshawar
+50621,Headphones,Mobile ,52.42,5.0,39,karachi
+50622,Phone,computers,77.38,3.0,16,Islamabad
+50623,Camera,Cameras,22.98,7.0,54,Islamabad
+50624,Camera,computers,26.62,7.0,34,Karachi
+50625,Laptop,Computers,60.39,2.0,66,Quetta
+50626,Tablet,Mobile,131.52,3.0,62,Lahore
+50627,Keyboard,Mobile,59.35,7.0,20,karachi
+50628,Headphones,Cameras,36.07,1.0,64,Lahore 
+50629,Mouse,computers,14.93,4.0,67,Lahore 
+50630,Phone,Computers,112.08,1.0,56,Lahore
+50631,Laptop,Mobile,37.4,4.0,30,Quetta
+50632,Mouse,Accessories,28.62,1.0,51,karachi
+50633,Tablet,Mobile ,19.79,1.0,62,Peshawar
+50634,Tablet,Computers,23.68,3.0,59,Peshawar
+50635,Monitor,Mobile ,32.3,1.0,38,Peshawar
+50636,Tablet,Mobile,51.66,6.0,53,Islamabad
+50637,Monitor,Mobile,27.5,5.0,36,Quetta
+50638,Mouse,Cameras,68.08,4.0,28,Lahore 
+50639,Monitor,computers,51.41,4.0,52,Lahore
+50640,Mouse,Mobile ,255.77,6.0,40,Karachi
+50641,Mouse,Computers,19.93,6.0,27,Karachi
+50642,Headphones,Computers,67.02,1.0,51,Quetta
+50643,Keyboard,Accessories,67.57,5.0,32,Lahore
+50644,Mouse,Cameras,30.88,4.0,47,Peshawar
+50645,Headphones,Mobile,64.19,6.0,34,Lahore 
+50646,Keyboard,Cameras,99.51,6.0,63,Karachi
+50647,Mouse,Mobile,64.25,5.0,61,Lahore
+50648,Laptop,Mobile ,148.4,5.0,41,Lahore
+50649,Tablet,Mobile,14.65,2.0,54,Peshawar
+50650,Phone,Cameras,34.9,6.0,24,Quetta
+50651,Tablet,Cameras,157.4,5.0,69,Lahore
+50652,Tablet,Computers,109.16,2.0,26,Karachi
+50653,Camera,Cameras,85.74,2.0,62,Karachi
+50654,Laptop,Computers,134.5,4.0,61,karachi
+50655,Phone,Cameras,17.36,3.0,24,Karachi
+50656,Laptop,Cameras,101.2,5.0,15,Quetta
+50657,Keyboard,Computers,120.52,3.0,55,Quetta
+50658,Camera,Mobile,39.32,2.0,62,Karachi
+50659,Tablet,Mobile,333.29,3.0,54,Peshawar
+50660,Headphones,Mobile ,68.55,6.0,18,Islamabad
+50661,Tablet,Mobile,14.51,,50,Peshawar
+50662,Laptop,Mobile ,77.31,3.0,36,Karachi
+50663,Tablet,Cameras,37.79,6.0,65,Quetta
+50664,Monitor,Mobile ,128.67,1.0,59,karachi
+50665,Headphones,computers,86.16,7.0,58,Karachi
+50666,Tablet,Mobile,40.91,6.0,37,Peshawar
+50667,Headphones,Cameras,160.23,1.0,32,Quetta
+50668,Keyboard,computers,111.12,5.0,60,Karachi
+50669,Mouse,Computers,35.23,4.0,21,karachi
+50670,Keyboard,Cameras,54.66,7.0,20,Peshawar
+50671,Headphones,Accessories,84.44,2.0,18,Islamabad
+50672,Keyboard,Computers,47.62,7.0,43,Peshawar
+50673,Keyboard,Mobile ,,7.0,19,Quetta
+50674,Phone,Mobile,61.8,2.0,47,Quetta
+50675,Keyboard,Mobile ,30.18,4.0,24,karachi
+50676,Headphones,Mobile,14.14,5.0,63,Karachi
+50677,Tablet,Cameras,70.49,2.0,38,karachi
+50678,Laptop,Accessories,16.56,7.0,20,Karachi
+50679,Phone,Mobile ,31.64,2.0,53,Quetta
+50680,Mouse,Mobile ,19.08,2.0,33,Islamabad
+50681,Headphones,computers,20.67,4.0,29,Karachi
+50682,Phone,Mobile ,79.61,4.0,51,Quetta
+50683,Monitor,computers,52.22,1.0,67,Peshawar
+50684,Laptop,Mobile,51.01,7.0,68,Quetta
+50685,Laptop,Mobile ,25.65,2.0,38,Islamabad
+50686,Phone,Cameras,39.4,1.0,61,Lahore
+50687,Headphones,Accessories,77.07,4.0,26,Quetta
+50688,Tablet,Mobile,58.33,7.0,61,Lahore
+50689,Keyboard,computers,103.0,1.0,66,karachi
+50690,Phone,Mobile,112.99,4.0,43,Quetta
+50691,Camera,Cameras,51.22,7.0,43,Lahore 
+50692,Monitor,Computers,18.1,7.0,46,Karachi
+50693,Phone,Cameras,36.9,2.0,19,Quetta
+50694,Phone,Cameras,56.63,5.0,62,Peshawar
+50695,Monitor,Cameras,36.43,6.0,55,Lahore 
+50696,Headphones,Cameras,30.4,5.0,62,Islamabad
+50697,Keyboard,Mobile ,63.14,5.0,21,Lahore 
+50698,Keyboard,Mobile ,292.86,6.0,59,Lahore
+50699,Monitor,Accessories,43.93,4.0,34,karachi
+50700,Camera,Mobile ,60.23,1.0,60,Peshawar
+50701,Headphones,Mobile ,25.72,5.0,69,Lahore 
+50702,Headphones,Computers,135.4,5.0,63,Lahore
+50703,Keyboard,Accessories,106.55,6.0,65,Lahore
+50704,Mouse,computers,101.87,7.0,21,Peshawar
+50705,Camera,Cameras,146.04,3.0,33,Peshawar
+50706,Headphones,Computers,,7.0,31,Lahore
+50707,Tablet,Accessories,49.57,1.0,43,Quetta
+50708,Laptop,Accessories,183.35,7.0,68,Islamabad
+50709,Tablet,computers,91.04,1.0,52,Lahore
+50710,Camera,Cameras,14.26,5.0,44,Peshawar
+50711,Headphones,Computers,81.1,5.0,59,Quetta
+50712,Camera,Computers,41.34,5.0,24,Karachi
+50713,Mouse,Mobile,108.18,7.0,51,Lahore 
+50714,Monitor,Computers,78.67,4.0,42,Quetta
+50715,Mouse,Mobile ,19.47,1.0,26,Lahore
+50716,Headphones,Mobile,71.86,5.0,50,karachi
+50717,Phone,Cameras,69.19,3.0,61,karachi
+50718,Phone,Computers,76.42,5.0,60,Lahore 
+50719,Monitor,Accessories,87.72,3.0,61,karachi
+50720,Mouse,Mobile ,159.55,1.0,59,Lahore
+50721,Phone,Cameras,78.97,5.0,40,Lahore
+50722,Tablet,Mobile,61.25,1.0,17,Lahore
+50723,Laptop,computers,127.25,3.0,68,Lahore 
+50724,Camera,Cameras,259.25,5.0,39,Islamabad
+50725,Headphones,Mobile,109.38,7.0,49,Islamabad
+50726,Monitor,Mobile ,68.99,3.0,16,Lahore 
+50727,Monitor,Mobile ,79.93,3.0,63,Lahore
+50728,Headphones,Cameras,71.27,3.0,63,Islamabad
+50729,Laptop,Computers,61.07,5.0,66,Islamabad
+50730,Headphones,Accessories,246.5,2.0,24,Islamabad
+50731,Mouse,Cameras,37.08,4.0,61,Quetta
+50732,Phone,Mobile ,127.83,6.0,49,karachi
+50733,Camera,computers,55.6,1.0,23,Lahore
+50734,Headphones,Mobile,23.05,7.0,46,Karachi
+50735,Phone,Cameras,53.39,4.0,41,Quetta
+50736,Headphones,Mobile,42.29,5.0,49,Peshawar
+50737,Keyboard,Accessories,87.83,5.0,19,Quetta
+50738,Tablet,Cameras,64.03,7.0,45,Peshawar
+50739,Keyboard,Cameras,31.05,5.0,52,karachi
+50740,Camera,Accessories,156.99,7.0,54,Quetta
+50741,Camera,Accessories,122.56,3.0,57,karachi
+50742,Laptop,computers,169.18,2.0,49,karachi
+50743,Keyboard,Cameras,70.39,5.0,53,Peshawar
+50744,Phone,Computers,58.95,2.0,19,Islamabad
+50745,Keyboard,computers,95.33,1.0,58,Quetta
+50746,Phone,Cameras,41.46,2.0,35,Quetta
+50747,Mouse,computers,65.66,2.0,45,Quetta
+50748,Phone,computers,53.83,1.0,45,Peshawar
+50749,Mouse,Mobile,23.34,6.0,68,Islamabad
+50750,Keyboard,Mobile ,65.55,5.0,32,Karachi
+50751,Camera,Mobile ,45.3,2.0,36,Islamabad
+50752,Camera,Computers,51.54,2.0,56,Lahore 
+50753,Mouse,Mobile,76.44,7.0,49,karachi
+50754,Keyboard,Mobile,137.99,7.0,32,karachi
+50755,Headphones,Mobile ,34.75,1.0,33,karachi
+50756,Headphones,Mobile ,48.48,5.0,60,Lahore 
+50757,Phone,Mobile,36.7,3.0,60,Lahore
+50758,Keyboard,Cameras,,3.0,23,karachi
+50759,Camera,Mobile,41.0,5.0,36,Karachi
+50760,Monitor,Computers,53.11,,57,Lahore
+50761,Laptop,Mobile,88.31,5.0,21,Karachi
+50762,Tablet,Computers,74.31,7.0,25,Peshawar
+50763,Camera,Mobile ,30.36,6.0,23,Karachi
+50764,Headphones,computers,139.94,6.0,44,Islamabad
+50765,Headphones,Mobile,111.48,6.0,39,Karachi
+50766,Monitor,Cameras,33.59,6.0,32,Karachi
+50767,Monitor,Mobile,133.71,2.0,22,Peshawar
+50768,Camera,Cameras,74.63,7.0,50,Islamabad
+50769,Tablet,Mobile ,54.51,7.0,59,Islamabad
+50770,Keyboard,Mobile ,76.15,5.0,26,Islamabad
+50771,Monitor,computers,59.34,5.0,51,Islamabad
+50772,Phone,Mobile,86.0,7.0,58,Karachi
+50773,Laptop,Mobile,68.15,2.0,45,Peshawar
+50774,Keyboard,Computers,48.46,1.0,46,karachi
+50775,Mouse,Computers,16.17,7.0,24,Karachi
+50776,Headphones,Cameras,85.0,4.0,67,Lahore
+50777,Tablet,Cameras,47.33,6.0,67,karachi
+50778,Monitor,Mobile ,100.05,4.0,54,Peshawar
+50779,Phone,Computers,82.52,4.0,64,Lahore
+50780,Tablet,Mobile,48.14,1.0,48,karachi
+50781,Tablet,computers,117.32,3.0,51,Islamabad
+50782,Mouse,computers,68.93,1.0,60,Quetta
+50783,Laptop,Accessories,67.11,4.0,17,Peshawar
+50784,Keyboard,Computers,55.16,1.0,27,Lahore
+50785,Mouse,Accessories,180.24,6.0,26,karachi
+50786,Tablet,Mobile,37.95,3.0,49,Quetta
+50787,Mouse,Cameras,48.92,6.0,28,Lahore
+50788,Keyboard,Mobile ,27.0,1.0,36,karachi
+50789,Keyboard,Mobile,96.77,1.0,42,Quetta
+50790,Keyboard,Computers,41.33,3.0,55,karachi
+50791,Laptop,computers,,6.0,43,karachi
+50792,Laptop,Computers,43.12,6.0,16,Islamabad
+50793,Tablet,Mobile ,62.85,4.0,52,Lahore 
+50794,Monitor,computers,26.76,5.0,38,Karachi
+50795,Tablet,Accessories,14.04,5.0,21,Islamabad
+50796,Keyboard,Accessories,81.25,5.0,50,Quetta
+50797,Camera,Accessories,,6.0,29,Peshawar
+50798,Phone,Accessories,105.13,1.0,40,Lahore
+50799,Phone,Mobile ,166.18,4.0,68,Lahore
+50800,Mouse,computers,54.23,6.0,28,karachi
+50801,Tablet,Mobile,140.42,4.0,63,Lahore 
+50802,Phone,Mobile,59.4,2.0,40,Quetta
+50803,Mouse,Cameras,170.63,5.0,66,Peshawar
+50804,Phone,Cameras,44.86,3.0,61,karachi
+50805,Headphones,computers,12.97,4.0,60,Lahore
+50806,Mouse,Mobile,57.29,4.0,26,Lahore 
+50807,Headphones,Accessories,183.13,5.0,58,Karachi
+50808,Monitor,Computers,85.43,7.0,35,Quetta
+50809,Monitor,Accessories,43.17,5.0,65,Islamabad
+50810,Headphones,computers,74.72,7.0,69,Lahore 
+50811,Monitor,Mobile,113.44,1.0,48,Lahore
+50812,Headphones,Mobile,57.07,6.0,65,Quetta
+50813,Phone,Accessories,332.67,3.0,44,Lahore
+50814,Monitor,Mobile ,43.11,6.0,16,Lahore
+50815,Laptop,Cameras,115.77,1.0,63,Islamabad
+50816,Laptop,Mobile ,99.01,4.0,44,karachi
+50817,Monitor,Computers,38.29,1.0,17,Lahore
+50818,Keyboard,Mobile ,45.79,5.0,18,Quetta
+50819,Phone,Computers,116.95,2.0,54,Peshawar
+50820,Laptop,Mobile,66.29,2.0,65,Lahore 
+50821,Camera,Accessories,75.17,1.0,53,Islamabad
+50822,Mouse,Mobile,20.83,2.0,39,Lahore
+50823,Headphones,Mobile ,92.43,7.0,31,Lahore 
+50824,Headphones,Mobile ,72.73,7.0,38,Islamabad
+50825,Laptop,Cameras,57.89,1.0,32,Lahore
+50826,Mouse,Accessories,76.29,7.0,30,karachi
+50827,Tablet,computers,46.25,5.0,22,karachi
+50828,Keyboard,computers,41.07,3.0,46,Karachi
+50829,Tablet,Accessories,51.56,7.0,27,karachi
+50830,Camera,computers,44.62,2.0,22,Quetta
+50831,Mouse,Mobile,248.97,2.0,30,Lahore
+50832,Laptop,Mobile,109.15,2.0,58,Peshawar
+50833,Mouse,Computers,32.15,2.0,46,Lahore
+50834,Camera,Computers,226.69,,42,Lahore
+50835,Mouse,Mobile,45.54,1.0,47,Karachi
+50836,Tablet,Cameras,61.51,2.0,46,Lahore
+50837,Mouse,Mobile ,108.13,3.0,42,Quetta
+50838,Keyboard,Cameras,16.77,5.0,61,karachi
+50839,Camera,Accessories,51.72,7.0,55,Peshawar
+50840,Phone,Mobile,41.57,1.0,25,Karachi
+50841,Keyboard,Computers,68.94,5.0,59,Peshawar
+50842,Phone,Cameras,76.75,1.0,24,karachi
+50843,Headphones,Computers,57.38,7.0,19,karachi
+50844,Camera,computers,,2.0,38,karachi
+50845,Camera,Accessories,120.58,6.0,36,Islamabad
+50846,Phone,Accessories,,6.0,58,Quetta
+50847,Headphones,Computers,61.99,3.0,53,Karachi
+50848,Tablet,Mobile,66.43,3.0,18,Islamabad
+50849,Tablet,Computers,199.0,,42,Peshawar
+50850,Mouse,computers,67.51,4.0,58,Karachi
+50851,Phone,Accessories,43.19,4.0,55,Karachi
+50852,Keyboard,computers,17.45,5.0,42,karachi
+50853,Tablet,Cameras,23.76,4.0,48,Lahore
+50854,Mouse,Mobile ,44.54,6.0,45,Karachi
+50855,Keyboard,computers,56.24,4.0,27,Quetta
+50856,Phone,Computers,42.05,3.0,46,Lahore
+50857,Headphones,Computers,75.81,3.0,52,Lahore 
+50858,Keyboard,Mobile ,41.7,6.0,18,Lahore 
+50859,Keyboard,Mobile,33.3,1.0,53,karachi
+50860,Camera,computers,89.86,3.0,28,Islamabad
+50861,Laptop,Cameras,146.95,3.0,15,Lahore 
+50862,Phone,computers,29.38,5.0,56,Lahore
+50863,Camera,Mobile,70.7,1.0,36,Lahore
+50864,Camera,Mobile,17.49,4.0,37,Lahore 
+50865,Monitor,Cameras,23.14,5.0,49,Quetta
+50866,Camera,Computers,41.15,7.0,45,Karachi
+50867,Phone,Mobile,126.18,4.0,49,Lahore 
+50868,Laptop,Cameras,36.37,7.0,66,Lahore
+50869,Monitor,Mobile,35.5,5.0,50,Quetta
+50870,Mouse,Mobile,61.77,6.0,17,Peshawar
+50871,Laptop,Mobile ,61.81,2.0,27,Karachi
+50872,Phone,Mobile,36.22,7.0,39,karachi
+50873,Tablet,Mobile ,219.43,2.0,40,Quetta
+50874,Mouse,Mobile ,,1.0,34,Lahore 
+50875,Mouse,computers,64.96,1.0,25,Quetta
+50876,Camera,Computers,46.47,5.0,20,karachi
+50877,Phone,Mobile,80.32,5.0,22,Lahore 
+50878,Camera,Mobile ,134.66,2.0,67,Lahore 
+50879,Monitor,Computers,177.93,7.0,36,Peshawar
+50880,Camera,Cameras,36.76,2.0,67,Karachi
+50881,Tablet,Cameras,123.41,5.0,33,Islamabad
+50882,Phone,Mobile ,86.25,4.0,32,Quetta
+50883,Phone,Mobile ,113.69,5.0,41,Karachi
+50884,Mouse,Mobile,56.84,6.0,67,Karachi
+50885,Mouse,Cameras,53.43,7.0,45,Islamabad
+50886,Phone,Cameras,110.85,6.0,16,Lahore 
+50887,Monitor,Mobile ,112.23,7.0,29,Islamabad
+50888,Camera,Cameras,166.95,7.0,68,Lahore 
+50889,Tablet,Computers,68.65,3.0,23,karachi
+50890,Phone,Mobile ,56.29,4.0,60,Islamabad
+50891,Headphones,Cameras,12.2,2.0,66,Lahore
+50892,Phone,Mobile,21.17,7.0,26,karachi
+50893,Keyboard,Mobile,46.7,7.0,45,karachi
+50894,Laptop,Mobile,29.5,7.0,47,Quetta
+50895,Headphones,computers,102.43,6.0,58,Lahore 
+50896,Phone,Mobile ,25.75,6.0,58,Karachi
+50897,Phone,Accessories,43.56,6.0,18,Islamabad
+50898,Phone,Computers,44.69,2.0,32,Quetta
+50899,Phone,Mobile ,132.04,2.0,66,Karachi
+50900,Laptop,Cameras,40.64,4.0,34,Lahore 
+50901,Mouse,Cameras,80.97,3.0,28,Quetta
+50902,Tablet,Computers,68.53,6.0,49,Islamabad
+50903,Monitor,Mobile ,108.54,6.0,25,Lahore
+50904,Tablet,Computers,104.86,7.0,23,Karachi
+50905,Mouse,Cameras,59.04,6.0,58,Quetta
+50906,Monitor,Cameras,20.03,1.0,21,Lahore 
+50907,Laptop,Cameras,51.9,3.0,64,Karachi
+50908,Tablet,Cameras,59.56,3.0,28,Islamabad
+50909,Laptop,Accessories,72.67,5.0,20,Quetta
+50910,Keyboard,Cameras,37.36,3.0,55,Peshawar
+50911,Laptop,Accessories,126.67,7.0,24,Quetta
+50912,Tablet,Accessories,60.88,3.0,35,Quetta
+50913,Camera,computers,33.17,4.0,34,Lahore 
+50914,Monitor,computers,44.8,6.0,42,Quetta
+50915,Monitor,Computers,211.36,3.0,41,Quetta
+50916,Mouse,Mobile ,92.93,1.0,25,Islamabad
+50917,Mouse,Computers,119.28,3.0,27,Lahore
+50918,Keyboard,Mobile,30.66,3.0,25,Karachi
+50919,Monitor,Accessories,38.56,5.0,18,Karachi
+50920,Phone,Mobile,38.75,5.0,50,karachi
+50921,Monitor,Accessories,68.02,4.0,40,Karachi
+50922,Mouse,Mobile,53.89,3.0,20,Peshawar
+50923,Headphones,Accessories,43.9,4.0,33,Quetta
+50924,Tablet,computers,47.62,2.0,51,Quetta
+50925,Mouse,computers,36.01,2.0,30,Karachi
+50926,Tablet,Accessories,53.68,5.0,37,Lahore 
+50927,Mouse,Mobile,124.41,7.0,55,Peshawar
+50928,Monitor,computers,22.57,4.0,51,Karachi
+50929,Monitor,Computers,75.58,1.0,53,Karachi
+50930,Mouse,Accessories,147.98,7.0,35,Lahore 
+50931,Monitor,Mobile,53.57,3.0,41,Lahore 
+50932,Tablet,Cameras,42.79,6.0,61,karachi
+50933,Phone,Computers,110.03,7.0,62,Islamabad
+50934,Laptop,computers,31.83,7.0,18,Lahore 
+50935,Keyboard,Mobile,59.46,1.0,61,Lahore
+50936,Laptop,Cameras,30.7,2.0,64,Lahore
+50937,Phone,Cameras,17.89,5.0,66,karachi
+50938,Keyboard,Accessories,54.66,6.0,29,Islamabad
+50939,Laptop,Accessories,26.54,6.0,42,Peshawar
+50940,Phone,Mobile,59.88,4.0,17,Quetta
+50941,Mouse,computers,124.56,2.0,21,Lahore
+50942,Monitor,Cameras,201.39,5.0,45,Lahore 
+50943,Camera,Mobile,64.12,5.0,26,Lahore
+50944,Laptop,Mobile,117.04,4.0,27,Lahore 
+50945,Headphones,Accessories,78.2,5.0,31,Lahore
+50946,Mouse,Mobile ,47.04,2.0,40,Islamabad
+50947,Headphones,Mobile ,17.27,6.0,23,Lahore
+50948,Headphones,Accessories,173.68,1.0,59,Peshawar
+50949,Laptop,Accessories,30.51,6.0,51,Karachi
+50950,Tablet,Computers,148.24,6.0,58,Lahore
+50951,Monitor,Cameras,85.53,5.0,65,Peshawar
+50952,Headphones,Mobile,32.0,6.0,48,Quetta
+50953,Monitor,computers,73.91,7.0,34,Lahore 
+50954,Keyboard,Cameras,241.38,2.0,68,karachi
+50955,Headphones,Mobile,,4.0,46,Lahore 
+50956,Camera,Mobile ,43.24,,40,karachi
+50957,Camera,computers,37.99,7.0,37,karachi
+50958,Headphones,Mobile,64.4,6.0,17,Islamabad
+50959,Mouse,Computers,54.19,5.0,67,Lahore 
+50960,Mouse,Mobile,131.61,4.0,60,Lahore 
+50961,Camera,Accessories,97.59,2.0,53,Peshawar
+50962,Phone,Accessories,20.09,3.0,27,Karachi
+50963,Camera,computers,81.3,4.0,66,Karachi
+50964,Headphones,Mobile ,53.71,7.0,24,Peshawar
+50965,Mouse,computers,61.81,7.0,28,Quetta
+50966,Mouse,Mobile ,70.94,5.0,18,Peshawar
+50967,Tablet,Computers,131.52,1.0,30,Lahore 
+50968,Headphones,Computers,113.93,6.0,33,Peshawar
+50969,Laptop,Mobile ,37.06,4.0,58,Quetta
+50970,Tablet,Cameras,58.08,5.0,32,karachi
+50971,Headphones,Mobile,45.08,4.0,67,Lahore 
+50972,Camera,computers,20.22,6.0,31,Quetta
+50973,Camera,Mobile,56.2,2.0,43,Peshawar
+50974,Camera,computers,200.15,2.0,47,Karachi
+50975,Laptop,Mobile ,19.83,2.0,60,Quetta
+50976,Headphones,Accessories,59.4,7.0,56,Lahore
+50977,Camera,Cameras,58.18,1.0,62,Islamabad
+50978,Camera,computers,72.75,3.0,66,Peshawar
+50979,Mouse,Mobile ,32.27,3.0,21,Karachi
+50980,Camera,Cameras,23.9,6.0,20,Quetta
+50981,Camera,Mobile,24.63,3.0,39,Lahore
+50982,Laptop,Mobile,143.32,7.0,23,Peshawar
+50983,Camera,Accessories,31.86,7.0,42,Islamabad
+50984,Headphones,Computers,43.61,5.0,47,Islamabad
+50985,Mouse,computers,236.99,3.0,30,Islamabad
+50986,Phone,Accessories,37.44,5.0,20,Karachi
+50987,Camera,computers,75.38,5.0,68,Lahore
+50988,Monitor,Computers,120.48,1.0,35,karachi
+50989,Keyboard,Mobile,116.77,6.0,61,Karachi
+50990,Monitor,Accessories,25.39,4.0,49,Peshawar
+50991,Camera,Computers,37.95,6.0,51,Karachi
+50992,Keyboard,computers,73.44,5.0,57,Peshawar
+50993,Laptop,Cameras,211.42,7.0,29,Quetta
+50994,Laptop,Mobile ,36.78,1.0,26,Peshawar
+50995,Camera,computers,43.78,1.0,69,karachi
+50996,Phone,Computers,79.26,1.0,51,Lahore
+50997,Tablet,Mobile ,90.27,7.0,31,Peshawar
+50998,Laptop,Computers,93.89,7.0,50,Lahore
+50999,Camera,Mobile ,34.81,7.0,36,Peshawar
+51000,Headphones,computers,42.7,3.0,62,Karachi
+51001,Phone,computers,69.41,2.0,42,Lahore
+51002,Camera,Accessories,137.07,3.0,32,Quetta
+51003,Monitor,Computers,51.68,6.0,52,karachi
+51004,Camera,Computers,59.47,2.0,56,Lahore
+51005,Mouse,Computers,30.97,4.0,35,Lahore
+51006,Keyboard,computers,202.57,5.0,56,Islamabad
+51007,Laptop,Cameras,66.7,3.0,27,Lahore
+51008,Monitor,Mobile,121.58,4.0,28,Lahore 
+51009,Laptop,Computers,61.52,5.0,60,Quetta
+51010,Tablet,Computers,63.78,6.0,49,Islamabad
+51011,Laptop,Mobile,22.76,,16,Peshawar
+51012,Laptop,computers,14.91,4.0,52,Peshawar
+51013,Laptop,Mobile ,136.15,2.0,31,Peshawar
+51014,Camera,Cameras,63.48,1.0,30,Islamabad
+51015,Camera,Mobile ,69.0,5.0,38,Lahore 
+51016,Headphones,Accessories,26.79,4.0,39,Islamabad
+51017,Laptop,Mobile,33.55,2.0,64,Islamabad
+51018,Mouse,computers,120.36,1.0,38,Karachi
+51019,Camera,Computers,187.0,7.0,31,Peshawar
+51020,Laptop,Mobile ,40.29,6.0,57,karachi
+51021,Tablet,computers,93.36,7.0,44,Lahore 
+51022,Laptop,Computers,68.27,1.0,15,Peshawar
+51023,Tablet,Mobile,55.79,1.0,49,Karachi
+51024,Mouse,Cameras,201.09,2.0,42,karachi
+51025,Camera,computers,44.94,1.0,46,Quetta
+51026,Keyboard,Mobile,135.16,4.0,25,Lahore 
+51027,Tablet,computers,77.32,5.0,41,Peshawar
+51028,Tablet,Accessories,59.68,2.0,50,Karachi
+51029,Monitor,computers,147.2,3.0,52,Lahore 
+51030,Headphones,Accessories,,4.0,52,Quetta
+51031,Keyboard,Accessories,56.67,3.0,69,karachi
+51032,Keyboard,Accessories,147.91,4.0,42,Karachi
+51033,Tablet,Computers,135.91,5.0,38,Peshawar
+51034,Phone,Mobile,131.8,7.0,44,Peshawar
+51035,Laptop,Mobile,10.0,,33,Lahore
+51036,Keyboard,computers,80.33,1.0,32,karachi
+51037,Tablet,Accessories,69.26,7.0,52,Lahore
+51038,Phone,Accessories,58.99,5.0,32,Karachi
+51039,Monitor,Mobile ,89.69,4.0,56,Lahore
+51040,Headphones,Mobile ,71.48,6.0,55,Lahore 
+51041,Keyboard,Mobile,93.74,7.0,67,Karachi
+51042,Mouse,Accessories,50.69,1.0,22,Quetta
+51043,Mouse,Accessories,159.78,7.0,34,Lahore
+51044,Tablet,Mobile ,100.11,5.0,57,Islamabad
+51045,Camera,computers,85.85,5.0,38,Peshawar
+51046,Keyboard,Cameras,83.17,7.0,51,Karachi
+51047,Keyboard,Mobile,128.03,3.0,55,Lahore
+51048,Monitor,Accessories,117.23,6.0,63,Quetta
+51049,Keyboard,Computers,56.08,4.0,27,Karachi
+51050,Tablet,computers,114.86,7.0,29,Peshawar
+51051,Mouse,Mobile ,67.57,4.0,40,Quetta
+51052,Headphones,computers,209.77,6.0,42,Lahore
+51053,Keyboard,Mobile,,4.0,64,Lahore
+51054,Headphones,Accessories,40.18,3.0,17,Peshawar
+51055,Headphones,Mobile ,274.5,3.0,28,karachi
+51056,Mouse,Accessories,15.39,7.0,65,Karachi
+51057,Camera,Mobile ,91.31,6.0,48,Islamabad
+51058,Camera,Cameras,38.38,2.0,52,Lahore 
+51059,Phone,Accessories,205.08,7.0,28,Islamabad
+51060,Phone,Cameras,71.12,5.0,49,Islamabad
+51061,Camera,Mobile,36.02,1.0,35,karachi
+51062,Keyboard,Accessories,50.74,6.0,55,Peshawar
+51063,Monitor,Mobile,,2.0,19,Islamabad
+51064,Tablet,computers,49.46,7.0,30,karachi
+51065,Mouse,Cameras,48.73,4.0,50,Karachi
+51066,Phone,Accessories,37.03,7.0,48,Quetta
+51067,Laptop,computers,71.92,4.0,61,Islamabad
+51068,Tablet,Accessories,77.81,1.0,59,Lahore 
+51069,Tablet,Mobile ,31.58,6.0,15,karachi
+51070,Monitor,Cameras,20.53,6.0,19,Lahore 
+51071,Tablet,Mobile ,73.86,3.0,34,Karachi
+51072,Phone,Mobile ,85.26,2.0,67,Lahore
+51073,Tablet,Mobile,96.99,7.0,41,Lahore 
+51074,Laptop,Mobile,86.34,6.0,64,Islamabad
+51075,Headphones,Mobile ,167.71,3.0,18,karachi
+51076,Tablet,Mobile,115.36,5.0,67,Quetta
+51077,Mouse,computers,344.43,2.0,18,Peshawar
+51078,Tablet,Mobile,452.79,2.0,59,Karachi
+51079,Monitor,Mobile ,19.24,5.0,63,Karachi
+51080,Monitor,computers,14.47,6.0,31,karachi
+51081,Monitor,Cameras,60.05,7.0,31,Karachi
+51082,Laptop,Accessories,83.74,4.0,46,Karachi
+51083,Monitor,Cameras,57.44,2.0,54,Lahore
+51084,Phone,Accessories,95.33,4.0,21,Lahore 
+51085,Tablet,Accessories,50.62,5.0,28,Quetta
+51086,Phone,Mobile,38.43,7.0,56,karachi
+51087,Phone,Computers,42.4,1.0,59,Quetta
+51088,Headphones,Mobile ,52.98,5.0,23,Peshawar
+51089,Mouse,computers,104.41,4.0,63,Lahore
+51090,Phone,Accessories,43.97,5.0,62,Peshawar
+51091,Headphones,computers,50.01,1.0,62,Peshawar
+51092,Phone,Cameras,87.41,1.0,28,Lahore 
+51093,Tablet,Cameras,53.03,5.0,51,Lahore 
+51094,Laptop,Computers,124.69,2.0,23,karachi
+51095,Mouse,Cameras,33.19,5.0,25,karachi
+51096,Mouse,Computers,28.83,1.0,18,karachi
+51097,Monitor,computers,73.55,6.0,42,Quetta
+51098,Headphones,Computers,78.48,3.0,54,karachi
+51099,Keyboard,Cameras,34.39,4.0,25,Karachi
+51100,Headphones,Accessories,144.51,3.0,25,Karachi
